@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2024//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_240101.dtd">
+<PubmedArticleSet>
+<PubmedArticle><MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM"><PMID Version="1">35645833</PMID><DateRevised><Year>2022</Year><Month>07</Month><Day>16</Day></DateRevised><Article PubModel="Electronic-eCollection"><Journal><ISSN IssnType="Print">1663-9812</ISSN><JournalIssue CitedMedium="Print"><Volume>13</Volume><PubDate><Year>2022</Year></PubDate></JournalIssue><Title>Frontiers in pharmacology</Title><ISOAbbreviation>Front Pharmacol</ISOAbbreviation></Journal><ArticleTitle>Long-Term Cardiovascular and Cerebrovascular Challenges Posed by COVID-19 in Patients With Familial Hypercholesterolemia.</ArticleTitle><Pagination><StartPage>890141</StartPage><MedlinePgn>890141</MedlinePgn></Pagination><ELocationID EIdType="pii" ValidYN="Y">890141</ELocationID><ELocationID EIdType="doi" ValidYN="Y">10.3389/fphar.2022.890141</ELocationID><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Vuorio</LastName><ForeName>Alpo</ForeName><Initials>A</Initials><AffiliationInfo><Affiliation>Mehil&#xe4;inen, Airport Health Center, Vantaa, Finland.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Department of Forensic Medicine, University of Helsinki, Helsinki, Finland.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Raal</LastName><ForeName>Frederick</ForeName><Initials>F</Initials><AffiliationInfo><Affiliation>Faculty of Health Sciences, University of Witwatersrand, Johannesburg, South Africa.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Ij&#xe4;s</LastName><ForeName>Petra</ForeName><Initials>P</Initials><AffiliationInfo><Affiliation>University of Helsinki and Helsinki University Hospital, Helsinki, Finland.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Kaste</LastName><ForeName>Markku</ForeName><Initials>M</Initials><AffiliationInfo><Affiliation>University of Helsinki and Helsinki University Hospital, Helsinki, Finland.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Kovanen</LastName><ForeName>Petri T</ForeName><Initials>PT</Initials><AffiliationInfo><Affiliation>Wihuri Research Institute, Helsinki, Finland.</Affiliation></AffiliationInfo></Author></AuthorList><Language>eng</Language><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType></PublicationTypeList><ArticleDate DateType="Electronic"><Year>2022</Year><Month>05</Month><Day>11</Day></ArticleDate></Article><MedlineJournalInfo><Country>Switzerland</Country><MedlineTA>Front Pharmacol</MedlineTA><NlmUniqueID>101548923</NlmUniqueID><ISSNLinking>1663-9812</ISSNLinking></MedlineJournalInfo><KeywordList Owner="NOTNLM"><Keyword MajorTopicYN="N">CHD</Keyword><Keyword MajorTopicYN="N">PCSK9 inhibitor</Keyword><Keyword MajorTopicYN="N">endothelial dysfunction</Keyword><Keyword MajorTopicYN="N">familial hypercholesterolemia</Keyword><Keyword MajorTopicYN="N">long-covid</Keyword><Keyword MajorTopicYN="N">statin</Keyword><Keyword MajorTopicYN="N">stroke</Keyword></KeywordList><CoiStatement>PK has received consultancy fees, lecture honoraria, and/or travel fees from Amgen, Novartis, Raisio Group, and Sanofi. FR has received research grants, honoraria, or consulting fees for professional input and/or lectures from Sanofi, Regeneron, Amgen, and Novartis. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. The handling editor BT declared a past co-authorship with the author FR.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="received"><Year>2022</Year><Month>3</Month><Day>5</Day></PubMedPubDate><PubMedPubDate PubStatus="accepted"><Year>2022</Year><Month>4</Month><Day>26</Day></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2022</Year><Month>6</Month><Day>1</Day><Hour>11</Hour><Minute>29</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2022</Year><Month>6</Month><Day>2</Day><Hour>6</Hour><Minute>0</Minute></PubMedPubDate><PubMedPubDate PubStatus="medline"><Year>2022</Year><Month>6</Month><Day>2</Day><Hour>6</Hour><Minute>1</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2022</Year><Month>5</Month><Day>11</Day></PubMedPubDate></History><PublicationStatus>epublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">35645833</ArticleId><ArticleId IdType="pmc">PMC9131188</ArticleId><ArticleId IdType="doi">10.3389/fphar.2022.890141</ArticleId><ArticleId IdType="pii">890141</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>
+Beheshti S., Madsen C. M., Varbo A., Benn M., Nordestgaard B. G. (2018). Relationship of Familial Hypercholesterolemia and High Low-Density Lipoprotein Cholesterol to Ischemic Stroke: Copenhagen General Population Study. Circulation
+138 (6), 578&#x2013;589. 10.1161/CIRCULATIONAHA.118.033470
+PubMed Abstract | 10.1161/CIRCULATIONAHA.118.033470 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1161/CIRCULATIONAHA.118.033470</ArticleId><ArticleId IdType="doi">10.1161/CIRCULATIONAHA.118.033470</ArticleId><ArticleId IdType="pubmed">29593013</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Beheshti S. O., Madsen C. M., Varbo A., Nordestgaard B. G. (2020). Worldwide Prevalence of Familial Hypercholesterolemia: Meta-Analyses of 11 Million Subjects. J. Am. Coll. Cardiol.
+75 (20), 2553&#x2013;2566. 10.1016/j.jacc.2020.03.057
+PubMed Abstract | 10.1016/j.jacc.2020.03.057 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.jacc.2020.03.057</ArticleId><ArticleId IdType="doi">10.1016/j.jacc.2020.03.057</ArticleId><ArticleId IdType="pubmed">32439005</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Bikdeli B., Madhavan M. V., Jimenez D., Chuich T., Dreyfus I., Driggin E., et al.  (2020). COVID-19 and Thrombotic or Thromboembolic Disease: Implications for Prevention, Antithrombotic Therapy, and Follow-Up: JACC State-Of-The-Art Review. J. Am. Coll. Cardiol.
+75 (23), 2950&#x2013;2973. 10.1016/j.jacc.2020.04.031
+PubMed Abstract | 10.1016/j.jacc.2020.04.031 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.jacc.2020.04.031</ArticleId><ArticleId IdType="doi">10.1016/j.jacc.2020.04.031</ArticleId><ArticleId IdType="pmc">PMC7164881</ArticleId><ArticleId IdType="pubmed">32311448</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Chen J., Wu J., Hao S., Yang M., Lu X., Chen X., et al.  (2017). Long Term Outcomes in Survivors of Epidemic Influenza A (H7N9) Virus Infection. Sci. Rep.
+7 (1), 17275. 10.1038/s41598-017-17497-6
+PubMed Abstract | 10.1038/s41598-017-17497-6 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41598-017-17497-6</ArticleId><ArticleId IdType="doi">10.1038/s41598-017-17497-6</ArticleId><ArticleId IdType="pmc">PMC5722861</ArticleId><ArticleId IdType="pubmed">29222500</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Di Toro A., Bozzani A., Tavazzi G., Urtis M., Giuliani L., Pizzoccheri R., et al.  (2021). Long COVID: Long-Term Effects?
+Eur. Heart J. Suppl.
+23 (Suppl. E), E1&#x2013;E5. 10.1093/eurheartj/suab080
+PubMed Abstract | 10.1093/eurheartj/suab080 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/eurheartj/suab080</ArticleId><ArticleId IdType="doi">10.1093/eurheartj/suab080</ArticleId><ArticleId IdType="pmc">PMC8503490</ArticleId><ArticleId IdType="pubmed">34650349</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Garc&#xed;a G., Gonz&#xe1;lez N., P&#xe9;rez A. B., Sierra B., Aguirre E., Rizo D., et al.  (2011). Long-term Persistence of Clinical Symptoms in Dengue-Infected Persons and its Association with Immunological Disorders. Int. J. Infect. Dis.
+15 (1), e38&#x2013;e43. 10.1016/j.ijid.2010.09.008
+PubMed Abstract | 10.1016/j.ijid.2010.09.008 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.ijid.2010.09.008</ArticleId><ArticleId IdType="doi">10.1016/j.ijid.2010.09.008</ArticleId><ArticleId IdType="pubmed">21112804</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Kaste M., Koivisto P. (1988). Risk of Brain Infarction in Familial Hypercholesterolemia. Stroke
+19 (9), 1097&#x2013;1100. 10.1161/01.str.19.9.1097
+PubMed Abstract | 10.1161/01.str.19.9.1097 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1161/01.str.19.9.1097</ArticleId><ArticleId IdType="doi">10.1161/01.str.19.9.1097</ArticleId><ArticleId IdType="pubmed">3413806</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Kotecha T., Knight D. S., Razvi Y., Kumar K., Vimalesvaran K., Thornton G., et al.  (2021). Patterns of Myocardial Injury in Recovered Troponin-Positive COVID-19 Patients Assessed by Cardiovascular Magnetic Resonance. Eur. Heart J.
+42 (19), 1866&#x2013;1878. 10.1093/eurheartj/ehab075
+PubMed Abstract | 10.1093/eurheartj/ehab075 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/eurheartj/ehab075</ArticleId><ArticleId IdType="doi">10.1093/eurheartj/ehab075</ArticleId><ArticleId IdType="pmc">PMC7928984</ArticleId><ArticleId IdType="pubmed">33596594</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Luchian M.-L., Motoc A., Lochy S., Magne J., Belsack D., De Mey J., et al.  (2022). Subclinical Myocardial Dysfunction in Patients with Persistent Dyspnea One Year after COVID-19. Diagnostics
+12 (1), 57. 10.3390/diagnostics12010057
+10.3390/diagnostics12010057 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/diagnostics12010057</ArticleId><ArticleId IdType="doi">10.3390/diagnostics12010057</ArticleId><ArticleId IdType="pmc">PMC8775030</ArticleId><ArticleId IdType="pubmed">35054224</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Myers K. D., Wilemon K., McGowan M. P., Howard W., Staszak D., Rader D. J. (2021). COVID-19 Associated Risks of Myocardial Infarction in Persons with Familial Hypercholesterolemia with or without ASCVD. Am. J. Prev. Cardiol.
+7, 100197. 10.1016/j.ajpc.2021.100197
+PubMed Abstract | 10.1016/j.ajpc.2021.100197 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.ajpc.2021.100197</ArticleId><ArticleId IdType="doi">10.1016/j.ajpc.2021.100197</ArticleId><ArticleId IdType="pmc">PMC8387291</ArticleId><ArticleId IdType="pubmed">34611637</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Nalbandian A., Sehgal K., Gupta A., Madhavan M. V., McGroder C., Stevens J. S., et al.  (2021). Post-acute COVID-19 Syndrome. Nat. Med.
+27 (4), 601&#x2013;615. 10.1038/s41591-021-01283-z
+PubMed Abstract | 10.1038/s41591-021-01283-z | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41591-021-01283-z</ArticleId><ArticleId IdType="doi">10.1038/s41591-021-01283-z</ArticleId><ArticleId IdType="pmc">PMC8893149</ArticleId><ArticleId IdType="pubmed">33753937</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ngai J. C., Ko F. W., Ng S. S., To K. W., Tong M., Hui D. S. (2010). The Long-Term Impact of Severe Acute Respiratory Syndrome on Pulmonary Function, Exercise Capacity and Health Status. Respirology
+15 (3), 543&#x2013;550. 10.1111/j.1440-1843.2010.01720.x
+PubMed Abstract | 10.1111/j.1440-1843.2010.01720.x | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1111/j.1440-1843.2010.01720.x</ArticleId><ArticleId IdType="doi">10.1111/j.1440-1843.2010.01720.x</ArticleId><ArticleId IdType="pmc">PMC7192220</ArticleId><ArticleId IdType="pubmed">20337995</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Nurmohamed N. S., Collard D., Reeskamp L. F., Kaiser Y., Kroon J., Tromp T. R., et al.  (2022). Lipoprotein(a), Venous Thromboembolism and COVID-19: A Pilot Study. Atherosclerosis
+341, 43&#x2013;49. 10.1016/j.atherosclerosis.2021.12.008
+PubMed Abstract | 10.1016/j.atherosclerosis.2021.12.008 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.atherosclerosis.2021.12.008</ArticleId><ArticleId IdType="doi">10.1016/j.atherosclerosis.2021.12.008</ArticleId><ArticleId IdType="pmc">PMC8690577</ArticleId><ArticleId IdType="pubmed">34995986</ArticleId></ArticleIdList></Reference><Reference><Citation>
+&#xd6;zer S., Candan L., &#xd6;zy&#x131;ld&#x131;z A. G., Turan O. E. (2021). Evaluation of Left Ventricular Global Functions with Speckle Tracking Echocardiography in Patients Recovered from COVID-19. Int. J. Cardiovasc. Imaging
+37 (7), 2227&#x2013;2233. 10.1007/s10554-021-02211-5
+PubMed Abstract | 10.1007/s10554-021-02211-5 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s10554-021-02211-5</ArticleId><ArticleId IdType="doi">10.1007/s10554-021-02211-5</ArticleId><ArticleId IdType="pmc">PMC7961169</ArticleId><ArticleId IdType="pubmed">33725265</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Pretorius E., Vlok M., Venter C., Bezuidenhout J. A., Laubscher G. J., Steenkamp J., et al.  (2021). Persistent Clotting Protein Pathology in Long COVID/Post-Acute Sequelae of COVID-19 (PASC) Is Accompanied by Increased Levels of Antiplasmin. Cardiovasc Diabetol.
+20 (1), 172. 10.1186/s12933-021-01359-7
+PubMed Abstract | 10.1186/s12933-021-01359-7 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s12933-021-01359-7</ArticleId><ArticleId IdType="doi">10.1186/s12933-021-01359-7</ArticleId><ArticleId IdType="pmc">PMC8381139</ArticleId><ArticleId IdType="pubmed">34425843</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Quick S., Moss J., Rajani R. M., Williams A. (2021). A Vessel for Change: Endothelial Dysfunction in Cerebral Small Vessel Disease. Trends. Neurosci.
+44 (4), 289&#x2013;305. 10.1016/j.tins.2020.11.003
+PubMed Abstract | 10.1016/j.tins.2020.11.003 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.tins.2020.11.003</ArticleId><ArticleId IdType="doi">10.1016/j.tins.2020.11.003</ArticleId><ArticleId IdType="pubmed">33308877</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Rothstein A., Oldridge O., Schwennesen H., Do D., Cucchiara B. L. (2020). Acute Cerebrovascular Events in Hospitalized COVID-19 Patients. Stroke
+51 (9), e219&#x2013;e222. 10.1161/STROKEAHA.120.030995
+PubMed Abstract | 10.1161/STROKEAHA.120.030995 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1161/STROKEAHA.120.030995</ArticleId><ArticleId IdType="doi">10.1161/STROKEAHA.120.030995</ArticleId><ArticleId IdType="pmc">PMC7386677</ArticleId><ArticleId IdType="pubmed">32684145</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Soljanlahti S., Autti T., Lauerma K., Raininko R., Keto P., Turtola H., et al.  (2005). Familial Hypercholesterolemia Patients Treated with Statins at No Increased Risk for Intracranial Vascular Lesions Despite Increased Cholesterol Burden and Extracranial Atherosclerosis. Stroke
+36 (7), 1572&#x2013;1574. 10.1161/01.STR.0000169920.64180.fa
+PubMed Abstract | 10.1161/01.STR.0000169920.64180.fa | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1161/01.STR.0000169920.64180.fa</ArticleId><ArticleId IdType="doi">10.1161/01.STR.0000169920.64180.fa</ArticleId><ArticleId IdType="pubmed">15933262</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Sorensen K. E., Celermajer D. S., Georgakopoulos D., Hatcher G., Betteridge D. J., Deanfield J. E. (1994). Impairment of Endothelium-dependent Dilation Is an Early Event in Children with Familial Hypercholesterolemia and Is Related to the Lipoprotein(a) Level. J. Clin. Invest
+93 (1), 50&#x2013;55. 10.1172/JCI116983
+PubMed Abstract | 10.1172/JCI116983 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1172/JCI116983</ArticleId><ArticleId IdType="doi">10.1172/JCI116983</ArticleId><ArticleId IdType="pmc">PMC293724</ArticleId><ArticleId IdType="pubmed">8282821</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Soriano J. B., Murthy S., Marshall J. C., Relan P., Diaz J. V.
+WHO Clinical Case Definition Working Group on Post-COVID-19 Condition (2021). A Clinical Case Definition of Post-COVID-19 Condition by a Delphi Consensus. Lancet Infect. Dis.
+22 (4), 00703&#x2013;00709. 10.1016/S1473-3099(21)00703-9: 10.1016/S1473-3099(21)00703-9 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/S1473-3099(21)00703-9</ArticleId><ArticleId IdType="doi">10.1016/S1473-3099(21)00703-9</ArticleId><ArticleId IdType="pmc">PMC8691845</ArticleId><ArticleId IdType="pubmed">34951953</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Taquet M., Geddes J. R., Husain M., Luciano S., Harrison P. J. (2021). 6-month Neurological and Psychiatric Outcomes in 236 379 Survivors of COVID-19: a Retrospective Cohort Study Using Electronic Health Records. Lancet Psychiatry
+8 (5), 416&#x2013;427. 10.1016/S2215-0366(21)00084-5
+PubMed Abstract | 10.1016/S2215-0366(21)00084-5 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/S2215-0366(21)00084-5</ArticleId><ArticleId IdType="doi">10.1016/S2215-0366(21)00084-5</ArticleId><ArticleId IdType="pmc">PMC8023694</ArticleId><ArticleId IdType="pubmed">33836148</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Tu T. M., Seet C. Y. H., Koh J. S., Tham C. H., Chiew H. J., De Leon J. A., et al.  (2021). Acute Ischemic Stroke during the Convalescent Phase of Asymptomatic COVID-2019 Infection in Men. JAMA Netw. Open
+4 (4), e217498. 10.1001/jamanetworkopen.2021.7498
+PubMed Abstract | 10.1001/jamanetworkopen.2021.7498 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamanetworkopen.2021.7498</ArticleId><ArticleId IdType="doi">10.1001/jamanetworkopen.2021.7498</ArticleId><ArticleId IdType="pmc">PMC8063067</ArticleId><ArticleId IdType="pubmed">33885771</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vartela V., Armenis I., Leivadarou D., Toutouzas K., Makrilakis K., Athanassopoulos G. D., et al.  (2021). Reduced Global Longitudinal Strain at Rest and Inadequate Blood Pressure Response during Exercise Treadmill Testing in Male Heterozygous Familial Hypercholesterolemia Patients. Int. J. Cardiol. Hypertens.
+9, 100083. 10.1016/j.ijchy.2021.100083
+PubMed Abstract | 10.1016/j.ijchy.2021.100083 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.ijchy.2021.100083</ArticleId><ArticleId IdType="doi">10.1016/j.ijchy.2021.100083</ArticleId><ArticleId IdType="pmc">PMC8167294</ArticleId><ArticleId IdType="pubmed">34095810</ArticleId></ArticleIdList></Reference><Reference><Citation>
+von Meijenfeldt F. A., Havervall S., Adelmeijer J., Lundstr&#xf6;m A., Magnusson M., Mackman N., et al.  (2021). Sustained Prothrombotic Changes in COVID-19 Patients 4 Months after Hospital Discharge. Blood Adv.
+5 (3), 756&#x2013;759. 10.1182/bloodadvances.2020003968
+PubMed Abstract | 10.1182/bloodadvances.2020003968 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1182/bloodadvances.2020003968</ArticleId><ArticleId IdType="doi">10.1182/bloodadvances.2020003968</ArticleId><ArticleId IdType="pmc">PMC7857699</ArticleId><ArticleId IdType="pubmed">33560386</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vuorio A., Kaste M., Kovanen P. T. (2021c). Familial Hypercholesterolemia and Statins in the COVID-19 Era: Mitigating the Risk of Ischemic Stroke. eNeurologicalSci
+23, 100344. 10.1016/j.ensci.2021.100344
+PubMed Abstract | 10.1016/j.ensci.2021.100344 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.ensci.2021.100344</ArticleId><ArticleId IdType="doi">10.1016/j.ensci.2021.100344</ArticleId><ArticleId IdType="pmc">PMC8078044</ArticleId><ArticleId IdType="pubmed">33937536</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vuorio A., Kovanen P. T., Santos R. D., Raal F. (2022). Prevention of Cardiovascular Burden in COVID-19 Patients Suffering from Familial Hypercholesterolemia: A Global Challenge. Cardiol. Ther.
+11, 1&#x2013;7. 10.1007/s40119-021-00245-3
+PubMed Abstract | 10.1007/s40119-021-00245-3 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s40119-021-00245-3</ArticleId><ArticleId IdType="doi">10.1007/s40119-021-00245-3</ArticleId><ArticleId IdType="pmc">PMC8596860</ArticleId><ArticleId IdType="pubmed">34787816</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vuorio A., Lassila R., Kovanen P. T. (2021d). Hypercholesterolemia and COVID-19: Statins for Lowering the Risk of Venous Thromboembolism. Front. Cardiovasc. Med.
+8, 711923. 10.3389/fcvm.2021.711923
+PubMed Abstract | 10.3389/fcvm.2021.711923 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fcvm.2021.711923</ArticleId><ArticleId IdType="doi">10.3389/fcvm.2021.711923</ArticleId><ArticleId IdType="pmc">PMC8548371</ArticleId><ArticleId IdType="pubmed">34722654</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vuorio A., Raal F., Kaste M., Kovanen P. T. (2021b). Familial Hypercholesterolaemia and COVID-19: A Two-Hit Scenario for Endothelial Dysfunction Amenable to Treatment. Atherosclerosis
+320, 53&#x2013;60. 10.1016/j.atherosclerosis.2021.01.021
+10.1016/j.atherosclerosis.2021.01.021 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.atherosclerosis.2021.01.021</ArticleId><ArticleId IdType="doi">10.1016/j.atherosclerosis.2021.01.021</ArticleId><ArticleId IdType="pmc">PMC7830285</ArticleId><ArticleId IdType="pubmed">33540179</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vuorio A., Strandberg T. E., Raal F., Santos R. D., Kovanen P. T. (2021a). Familial Hypercholesterolemia and COVID-19: A Menacing but Treatable Vasculopathic Condition. Atheroscler. Plus
+43, 3&#x2013;6. 10.1016/j.athplu.2021.08.001
+PubMed Abstract | 10.1016/j.athplu.2021.08.001 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.athplu.2021.08.001</ArticleId><ArticleId IdType="doi">10.1016/j.athplu.2021.08.001</ArticleId><ArticleId IdType="pmc">PMC8349422</ArticleId><ArticleId IdType="pubmed">34622243</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vuorio A., Watts G. F., Schneider W. J., Tsimikas S., Kovanen P. T. (2020). Familial Hypercholesterolemia and Elevated Lipoprotein(a): Double Heritable Risk and New Therapeutic Opportunities. J. Intern Med.
+287 (1), 2&#x2013;18. 10.1111/joim.12981
+PubMed Abstract | 10.1111/joim.12981 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1111/joim.12981</ArticleId><ArticleId IdType="doi">10.1111/joim.12981</ArticleId><ArticleId IdType="pubmed">31858669</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Representatives of the Global Familial Hypercholesterolemia Community
+Wilemon K. A., Wilemon K. A., Patel J., Aguilar-Salinas C., Ahmed C. D., Alkhnifsawi M., et al.  (2020). Reducing the Clinical and Public Health Burden of Familial Hypercholesterolemia: A Global Call to Action. JAMA Cardiol.
+5 (2), 217&#x2013;229. 10.1001/jamacardio.2019.5173
+PubMed Abstract | 10.1001/jamacardio.2019.5173 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamacardio.2019.5173</ArticleId><ArticleId IdType="doi">10.1001/jamacardio.2019.5173</ArticleId><ArticleId IdType="pubmed">31895433</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Wu Q., Zhou L., Sun X., Yan Z., Hu C., Wu J., et al.  (2017). Altered Lipid Metabolism in Recovered SARS Patients Twelve Years after Infection. Sci. Rep.
+7 (1), 9110. 10.1038/s41598-017-09536-z
+PubMed Abstract | 10.1038/s41598-017-09536-z | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41598-017-09536-z</ArticleId><ArticleId IdType="doi">10.1038/s41598-017-09536-z</ArticleId><ArticleId IdType="pmc">PMC5567209</ArticleId><ArticleId IdType="pubmed">28831119</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Xie Y., Xu E., Bowe B., Al-Aly Z. (2022). Long-term Cardiovascular Outcomes of COVID-19. Nat. Med.
+28, 583&#x2013;590. 10.1038/s41591-022-01689-3
+PubMed Abstract | 10.1038/s41591-022-01689-3 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41591-022-01689-3</ArticleId><ArticleId IdType="doi">10.1038/s41591-022-01689-3</ArticleId><ArticleId IdType="pmc">PMC8938267</ArticleId><ArticleId IdType="pubmed">35132265</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zhang P., Li J., Liu H., Han N., Ju J., Kou Y., et al.  (2020a). Long-term Bone and Lung Consequences Associated with Hospital-Acquired Severe Acute Respiratory Syndrome: a 15-year Follow-Up from a Prospective Cohort Study. Bone Res.
+8, 8. 10.1038/s41413-020-0084-5
+PubMed Abstract | 10.1038/s41413-020-0084-5 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41413-020-0084-5</ArticleId><ArticleId IdType="doi">10.1038/s41413-020-0084-5</ArticleId><ArticleId IdType="pmc">PMC7018717</ArticleId><ArticleId IdType="pubmed">32128276</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zhang Y., Xiao M., Zhang S., Xia P., Cao W., Jiang W., et al.  (2020b). Coagulopathy and Antiphospholipid Antibodies in Patients with Covid-19. N. Engl. J. Med.
+382 (17), e38. 10.1056/NEJMc2007575
+PubMed Abstract | 10.1056/NEJMc2007575 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1056/NEJMc2007575</ArticleId><ArticleId IdType="doi">10.1056/NEJMc2007575</ArticleId><ArticleId IdType="pmc">PMC7161262</ArticleId><ArticleId IdType="pubmed">32268022</ArticleId></ArticleIdList></Reference></ReferenceList></PubmedData></PubmedArticle></PubmedArticleSet>

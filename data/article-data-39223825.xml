@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2024//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_240101.dtd">
+<PubmedArticleSet>
+<PubmedArticle><MedlineCitation Status="Publisher" Owner="NLM"><PMID Version="1">39223825</PMID><DateRevised><Year>2024</Year><Month>11</Month><Day>20</Day></DateRevised><Article PubModel="Print-Electronic"><Journal><ISSN IssnType="Electronic">2385-2011</ISSN><JournalIssue CitedMedium="Internet"><PubDate><Year>2024</Year><Month>Sep</Month><Day>02</Day></PubDate></JournalIssue><Title>Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences</Title><ISOAbbreviation>Interv Neuroradiol</ISOAbbreviation></Journal><ArticleTitle>Post-acute sequelae of COVID infection and cerebral venous outflow disorders: Overlapping symptoms and mechanisms?</ArticleTitle><Pagination><StartPage>15910199241273946</StartPage><MedlinePgn>15910199241273946</MedlinePgn></Pagination><ELocationID EIdType="pii" ValidYN="Y">15910199241273946</ELocationID><ELocationID EIdType="doi" ValidYN="Y">10.1177/15910199241273946</ELocationID><Abstract><AbstractText>Neurological long Covid (NLC) is a major post-acute sequela of SARS-CoV-2 infection, affecting up to 10% of infected patients. The clinical presentation of patients with NLC is varied, but general NLC symptoms have been noted to closely mimic symptoms of cerebral venous outflow disorders (CVD). Here we review key literature and discuss evidence supporting this comparison. We also aimed to describe the similarity between CVD symptomatology and neuro-NLC symptoms from two perspectives: a Twitter-distributed survey for long covid sufferers to estimate nature and frequency of neurological symptoms, and through a small cohort of patients with long covid who underwent CVD work up per our standard workflow. Over 700 patients responded, and we argue that there is a close symptom overlap with those of CVD. CVD workup in a series of 6 patients with neurological long COVID symptoms showed jugular vein stenosis by CT venography and varying degrees of increased intracranial pressure. Finally, we discuss the potential pathogenic association between vascular inflammation, associated with COVID-19 infection, venous outflow congestion, and its potential involvement in NLC.</AbstractText></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Clausen</LastName><ForeName>Thomas Mandel</ForeName><Initials>TM</Initials><Identifier Source="ORCID">0000-0001-7543-9622</Identifier><AffiliationInfo><Affiliation>John A. Burns School of Medicine, University of Hawaii, Honolulu, HI, USA.</Affiliation><Identifier Source="RINGGOLD">50677</Identifier></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Fargen</LastName><ForeName>Kyle M</ForeName><Initials>KM</Initials><AffiliationInfo><Affiliation>Departments of Neurological Surgery and Radiology, Wake Forest University, Winston-Salem, NC, USA.</Affiliation><Identifier Source="RINGGOLD">8676</Identifier></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Primiani</LastName><ForeName>Christopher T</ForeName><Initials>CT</Initials><AffiliationInfo><Affiliation>Department of Neurology, The Johns Hopkins Hospital, Baltimore, MD, USA.</Affiliation><Identifier Source="RINGGOLD">588543</Identifier></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Sattur</LastName><ForeName>Mithun</ForeName><Initials>M</Initials><AffiliationInfo><Affiliation>Department of Neurosurgery, Medical University of South Carolina, Charleston, SC, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Amans</LastName><ForeName>Matthew R</ForeName><Initials>MR</Initials><AffiliationInfo><Affiliation>Department of Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, USA.</Affiliation><Identifier Source="RINGGOLD">8785</Identifier></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Hui</LastName><ForeName>Ferdinand K</ForeName><Initials>FK</Initials><AffiliationInfo><Affiliation>Neuroscience Institute, Division of Neurointerventional Surgery, Queen's Medical Center, Honolulu, HI, USA.</Affiliation><Identifier Source="RINGGOLD">24797</Identifier></AffiliationInfo></Author></AuthorList><Language>eng</Language><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType></PublicationTypeList><ArticleDate DateType="Electronic"><Year>2024</Year><Month>09</Month><Day>02</Day></ArticleDate></Article><MedlineJournalInfo><Country>United States</Country><MedlineTA>Interv Neuroradiol</MedlineTA><NlmUniqueID>9602695</NlmUniqueID><ISSNLinking>1591-0199</ISSNLinking></MedlineJournalInfo><CitationSubset>IM</CitationSubset><KeywordList Owner="NOTNLM"><Keyword MajorTopicYN="N">COVID-19</Keyword><Keyword MajorTopicYN="N">Idiopathic intracranial hypertension</Keyword><Keyword MajorTopicYN="N">internal jugular vein</Keyword><Keyword MajorTopicYN="N">pseudotumor cerebri</Keyword></KeywordList><CoiStatement>Declaration of conflicting interestsThe authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="medline"><Year>2024</Year><Month>9</Month><Day>3</Day><Hour>6</Hour><Minute>43</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2024</Year><Month>9</Month><Day>3</Day><Hour>6</Hour><Minute>43</Minute></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2024</Year><Month>9</Month><Day>3</Day><Hour>1</Hour><Minute>43</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2024</Year><Month>9</Month><Day>2</Day></PubMedPubDate></History><PublicationStatus>aheadofprint</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">39223825</ArticleId><ArticleId IdType="pmc">PMC11571337</ArticleId><ArticleId IdType="doi">10.1177/15910199241273946</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>Fargen KM, Kittel C, Amans MR, et al.
+A national survey of venous sinus stenting practices for idiopathic intracranial hypertension. J Neurointerv Surg
+2023; 15: 507&#x2013;511. 
+https://jnis.bmj.com/lookup/doi/510.1136/neurintsurg-2022-018832
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">35428743</ArticleId></ArticleIdList></Reference><Reference><Citation>Connors JM, Ariens RAS. Uncertainties about the roles of anticoagulation and microclots in postacute sequelae of severe acute respiratory syndrome coronavirus 2 infection. J Thromb Haemost 2023; 21: 2697&#x2013;2701.</Citation><ArticleIdList><ArticleId IdType="pubmed">37495081</ArticleId></ArticleIdList></Reference><Reference><Citation>Ozonoff A, Jayavelu ND, Liu S, et al. Features of acute COVID-19 associated with post-acute sequelae of SARS-CoV-2 phenotypes: results from the IMPACC study. Nat Commun 2024; 15: 16.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC10764789</ArticleId><ArticleId IdType="pubmed">38172101</ArticleId></ArticleIdList></Reference><Reference><Citation>Pollay M. The function and structure of the cerebrospinal fluid outflow system. Cerebrospinal Fluid Res
+2010; 7: 9. 
+https://fluidsbarrierscns.biomedcentral.com/articles/10.1186/1743-8454-1187-1189
+
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/1743-8454-1187-1189</ArticleId><ArticleId IdType="pmc">PMC2904716</ArticleId><ArticleId IdType="pubmed">20565964</ArticleId></ArticleIdList></Reference><Reference><Citation>Lee K, Kittel C, Aldridge JB, et al.
+Correlation between intracranial pressure and venous sinus pressures in patients undergoing cerebral venography and manometry. J Neurointerv Surg
+2021; 13: 1162&#x2013;1166. 
+https://jnis.bmj.com/lookup/doi/1110.1136/neurintsurg-2020-017161
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">33674395</ArticleId></ArticleIdList></Reference><Reference><Citation>Fargen KM, Garner RM, Kittel Cet al.
+et al.
+A descriptive study of venous sinus pressures and gradients in patients with idiopathic intracranial hypertension. J Neurointerv Surg
+2020; 12: 320&#x2013;325. 
+https://jnis.bmj.com/lookup/doi/310.1136/neurintsurg-2019-015251
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">31473648</ArticleId></ArticleIdList></Reference><Reference><Citation>Fargen KM. A unifying theory explaining venous sinus stenosis and recurrent stenosis following venous sinus stenting in patients with idiopathic intracranial hypertension. J Neurointerv Surg
+2021; 13: 587&#x2013;592. 
+https://jnis.bmj.com/lookup/doi/510.1136/neurintsurg-2020-017208
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">33579755</ArticleId></ArticleIdList></Reference><Reference><Citation>Matloob SA, Toma AK, Thompson SD, et al.
+Effect of venous stenting on intracranial pressure in idiopathic intracranial hypertension. Acta Neurochir
+2017; 159: 1429&#x2013;1437. 
+http://link.springer.com/1410.1007/s00701-00017-03229-00706
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">28560487</ArticleId></ArticleIdList></Reference><Reference><Citation>Liu KC, Starke RM, Durst CR, et al.
+Venous sinus stenting for reduction of intracranial pressure in IIH: a prospective pilot study. J Neurosurg
+2017; 127: 1126&#x2013;1133. 
+https://thejns.org/view/journals/j-neurosurg/1127/1125/article-p1126.xml
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">28009240</ArticleId></ArticleIdList></Reference><Reference><Citation>Fargen KM. Idiopathic intracranial hypertension is not idiopathic: proposal for a new nomenclature and patient classification. J Neurointerv Surg
+2020; 12: 110&#x2013;114. 
+http://jnis.bmj.com/lookup/doi/110.1136/neurintsurg-2019-015498
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">31776170</ArticleId></ArticleIdList></Reference><Reference><Citation>Arun A, Amans MR, Higgins N, et al.
+A proposed framework for cerebral venous congestion. Neuroradiol J
+2022; 35: 94&#x2013;111. 
+http://journals.sagepub.com/doi/110.1177/19714009211029261
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8826290</ArticleId><ArticleId IdType="pubmed">34224274</ArticleId></ArticleIdList></Reference><Reference><Citation>Pang S, Kolarich AR, Brinjikji W, et al.
+Interventional and surgical management of internal jugular venous stenosis: a narrative review. J Neurointerv Surg
+2022; 14: 503&#x2013;507. 
+https://jnis.bmj.com/lookup/doi/510.1136/neurintsurg-2021-017937
+</Citation><ArticleIdList><ArticleId IdType="pubmed">34429346</ArticleId></ArticleIdList></Reference><Reference><Citation>Scerrati A, Norri N, Mongardi L, et al.
+Styloidogenic-cervical spondylotic internal jugular venous compression, a vascular disease related to several clinical neurological manifestations: diagnosis and treatment&#x2014;a comprehensive literature review. Ann Transl Med
+2021; 9: 718&#x2013;718. 
+https://atm.amegroups.com/article/view/65337/html
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8106058</ArticleId><ArticleId IdType="pubmed">33987416</ArticleId></ArticleIdList></Reference><Reference><Citation>Czyzewska D, Krysiuk K, Dobrzycki Ket al. et al. Ultrasound assessment of the jugular and vertebral veins in healthy individuals: selected physiological aspects and morphological parameters. J Ultrason 2015; 15: 267&#x2013;273.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4657398</ArticleId><ArticleId IdType="pubmed">26674467</ArticleId></ArticleIdList></Reference><Reference><Citation>Ravid S, Shachor-Meyouhas Y, Shahar E, et al.
+Viral-induced intracranial hypertension mimicking pseudotumor cerebri. Pediatr Neurol
+2013; 49: 191&#x2013;194. 
+https://linkinghub.elsevier.com/retrieve/pii/S0887899413001914
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">23831246</ArticleId></ArticleIdList></Reference><Reference><Citation>Caronna E, Ballv&#xe9; A, Llaurad&#xf3; A, et al.
+Headache: a striking prodromal and persistent symptom, predictive of COVID-19 clinical evolution. Cephalalgia
+2020; 40: 1410&#x2013;1421. 
+http://journals.sagepub.com/doi/1410.1177/0333102420965157
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7645597</ArticleId><ArticleId IdType="pubmed">33146036</ArticleId></ArticleIdList></Reference><Reference><Citation>Viola P, Ralli M, Pisani D, et al.
+Tinnitus and equilibrium disorders in COVID-19 patients: preliminary results. Eur Arch Oto-Rhino-Laryngol
+2021; 278: 3725&#x2013;3730. 
+https://link.springer.com/3710.1007/s00405-00020-06440-00407
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7582442</ArticleId><ArticleId IdType="pubmed">33095432</ArticleId></ArticleIdList></Reference><Reference><Citation>Verkuil LD, Liu GT, Brahma VLet al.
+et al.
+Pseudotumor cerebri syndrome associated with MIS-C: a case report. Lancet
+2020; 396: 532. 
+https://linkinghub.elsevier.com/retrieve/pii/S0140673620317256
+</Citation><ArticleIdList><ArticleId IdType="pubmed">32795406</ArticleId></ArticleIdList></Reference><Reference><Citation>Baccarella A, Linder A, Spencer R, et al.
+Increased intracranial pressure in the setting of multisystem inflammatory syndrome in children, associated with COVID-19. Pediatr Neurol
+2021; 115: 48&#x2013;49. 
+https://linkinghub.elsevier.com/retrieve/pii/S0887899420303647
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7680526</ArticleId><ArticleId IdType="pubmed">33333460</ArticleId></ArticleIdList></Reference><Reference><Citation>Noro F, Cardoso FDM, Marchiori E. COVID-19 and benign intracranial hypertension: a case report. Rev Soc Bras Med Trop
+2020; 53: e20200325. 
+http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S20200037-86822020000100819&amp;tlng=en
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7294953</ArticleId><ArticleId IdType="pubmed">32520086</ArticleId></ArticleIdList></Reference><Reference><Citation>Sardar S, Safan A, Okar L, et al.
+The diagnostic dilemma of bilateral optic neuritis and idiopathic intracranial hypertension coexistence in a patient with recent COVID-19 infection. Clin Case Rep
+2021; 9: e04347. 
+https://onlinelibrary.wiley.com/doi/04310.01002/ccr04343.04347
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8190579</ArticleId><ArticleId IdType="pubmed">34136250</ArticleId></ArticleIdList></Reference><Reference><Citation>Sriuoginys S, Margareta S, Jon Hersir E. De Novo presentation of idiopathic intracranial hypertension (IIH) associated with COVID-19 infection. Neurohospitalist
+2022; 12: 691&#x2013;692. 
+http://journals.sagepub.com/doi/194187442211010.194187442211177/19418744221102044
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC9117983</ArticleId><ArticleId IdType="pubmed">36147772</ArticleId></ArticleIdList></Reference><Reference><Citation>Silva MTT, Lima MA, Torezani G, et al.
+Isolated intracranial hypertension associated with COVID-19. Cephalalgia
+2020; 40: 1452&#x2013;1458. 
+http://journals.sagepub.com/doi/1410.1177/0333102420965963
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7645603</ArticleId><ArticleId IdType="pubmed">33146040</ArticleId></ArticleIdList></Reference><Reference><Citation>Soriano JB, Murthy S, Marshall JC, et al.
+A clinical case definition of post-COVID-19 condition by a Delphi consensus. Lancet Infect Dis
+2022; 22: e102&#x2013;e107. 
+https://linkinghub.elsevier.com/retrieve/pii/S1473309921007039
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8691845</ArticleId><ArticleId IdType="pubmed">34951953</ArticleId></ArticleIdList></Reference><Reference><Citation>Taquet M, Geddes JR, Husain M, et al.
+6-month neurological and psychiatric outcomes in 236 379 survivors of COVID-19: a retrospective cohort study using electronic health records. Lancet Psychiatry
+2021; 8: 416&#x2013;427. 
+https://linkinghub.elsevier.com/retrieve/pii/S2215036621000845
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8023694</ArticleId><ArticleId IdType="pubmed">33836148</ArticleId></ArticleIdList></Reference><Reference><Citation>Stefanou M-I, Palaiodimou L, Bakola E, et al.
+Neurological manifestations of long-COVID syndrome: a narrative review. Ther Adv Chronic Dis
+2022; 13: 20406223221076890. 
+http://journals.sagepub.com/doi/204062232210710.204062232211177/20406223221076890
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8859684</ArticleId><ArticleId IdType="pubmed">35198136</ArticleId></ArticleIdList></Reference><Reference><Citation>Wang S, Tong X, Li X, et al. Comparison of microcatheter and pressure wire for venous sinus manometric evaluation of patients with idiopathic intracranial hypertension. Interv Neuroradiol 2023; 29: 408&#x2013;412.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC10399493</ArticleId><ArticleId IdType="pubmed">35469515</ArticleId></ArticleIdList></Reference><Reference><Citation>Biering SB, Gomes De Sousa FT, Tjang LV, et al.
+SARS-CoV-2 spike triggers barrier dysfunction and vascular leak via integrins and TGF-&#x3b2; signaling. Nat Commun
+2022; 13: 7630. 
+https://www.nature.com/articles/s41467-41022-34910-41465
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC9734751</ArticleId><ArticleId IdType="pubmed">36494335</ArticleId></ArticleIdList></Reference><Reference><Citation>Targosz-Korecka M, Kubisiak A, Kloska D, et al.
+Endothelial glycocalyx shields the interaction of SARS-CoV-2 spike protein with ACE2 receptors. Sci Rep
+2021; 11: 12157. 
+https://www.nature.com/articles/s41598-12021-91231-12151
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8190434</ArticleId><ArticleId IdType="pubmed">34108510</ArticleId></ArticleIdList></Reference><Reference><Citation>Vollenberg R, Tepasse PR, Ochs K, et al.
+Indications of persistent glycocalyx damage in convalescent COVID-19 patients: a prospective multicenter study and hypothesis. Viruses
+2021; 13: 2324. https://www.mdpi.com/1999-4915/13/11/2324
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8619155</ArticleId><ArticleId IdType="pubmed">34835130</ArticleId></ArticleIdList></Reference><Reference><Citation>Swank Z, Senussi Y, Manickas-Hill Z, et al. Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae. Clin Infect Dis 2023; 76: e487&#x2013;e490.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC10169416</ArticleId><ArticleId IdType="pubmed">36052466</ArticleId></ArticleIdList></Reference><Reference><Citation>Almutairi MM, Sivandzade F, Albekairi TH, et al.
+Neuroinflammation and its impact on the pathogenesis of COVID-19. Front Med (Lausanne)
+2021; 8: 745789. 
+https://www.frontiersin.org/articles/745710.743389/fmed.742021.745789/full
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8652056</ArticleId><ArticleId IdType="pubmed">34901061</ArticleId></ArticleIdList></Reference><Reference><Citation>Jarius S, Pache F, K&#xf6;rtvelyessy P, et al.
+Cerebrospinal fluid findings in COVID-19: a multicenter study of 150 lumbar punctures in 127 patients. J Neuroinflammation
+2022; 19: 19. 
+https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-12021-02339-12970
+
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s12974-12021-02339-12970</ArticleId><ArticleId IdType="pmc">PMC8771621</ArticleId><ArticleId IdType="pubmed">35057809</ArticleId></ArticleIdList></Reference><Reference><Citation>Ding J, Pan L, Lan D, et al.
+Inflammatory markers differentiate cerebral venous Sinus thrombosis from mimics. Thromb Haemostasis
+2023; 123: 326&#x2013;335. 
+http://www.thieme-connect.de/DOI/DOI?310.1055/a-1951-3402
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">36167332</ArticleId></ArticleIdList></Reference><Reference><Citation>Song S-y, Lan D, Jiao B-l, et al.
+The negative prognostic role of inflammatory biomarkers in patients with chronic cerebrospinal venous insufficiency. Neurologist
+2023; 28: 57&#x2013;68. 
+https://journals.lww.com/10.1097/NRL.0000000000000443
+
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/NRL.0000000000000443</ArticleId><ArticleId IdType="pmc">PMC9977416</ArticleId><ArticleId IdType="pubmed">35697039</ArticleId></ArticleIdList></Reference><Reference><Citation>Al-Mufti F, Khandelwal P, Sursal T, et al. Neutrophil-Lymphocyte ratio is associated with poor clinical outcome after mechanical thrombectomy in stroke in patients with COVID-19. Interv Neuroradiol 2023; 29: 386&#x2013;392.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC9006085</ArticleId><ArticleId IdType="pubmed">35404161</ArticleId></ArticleIdList></Reference><Reference><Citation>Ackermann M, Verleden SE, Kuehnel M, et al.
+Pulmonary vascular endothelialitis, thrombosis, and angiogenesis in COVID-19. N Engl J Med
+2020; 383: 120&#x2013;128. 
+http://www.nejm.org/doi/110.1056/NEJMoa2015432
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7412750</ArticleId><ArticleId IdType="pubmed">32437596</ArticleId></ArticleIdList></Reference><Reference><Citation>Hanff TC, Mohareb AM, Giri J, et al.
+Thrombosis in&#x2009; COVID-19. Am J Hematol
+2020; 95: 1578&#x2013;1589. 
+https://onlinelibrary.wiley.com/doi/1510.1002/ajh.25982
+
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7674272</ArticleId><ArticleId IdType="pubmed">32857878</ArticleId></ArticleIdList></Reference><Reference><Citation>Parnass SM, Goodwin JA, Patel DV, et al.
+Dural sinus thrombosis: a mechanism for pseudotumor cerebri in systemic lupus erythematosus. J Rheumatol
+1987; 14: 152&#x2013;155. 
+https://www.ncbi.nlm.nih.gov/pubmed/3553588
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">3553588</ArticleId></ArticleIdList></Reference><Reference><Citation>Finsterer J, Kuntscher D, Brunner Set al.
+et al.
+Pseudotumor cerebri from sinus venous thrombosis, associated with polycystic ovary syndrome and hereditary hypercoagulability. Gynecol Endocrinol
+2007; 23: 179&#x2013;182. 
+http://www.tandfonline.com/doi/full/110.1080/09513590701237290
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">17454173</ArticleId></ArticleIdList></Reference><Reference><Citation>Green L, Vinker S, Amital H, et al.
+Pseudotumor cerebri in systemic lupus erythematosus. Semin Arthritis RHeum
+1995; 25: 103&#x2013;108. 
+https://linkinghub.elsevier.com/retrieve/pii/S0049017295800239
+
+</Citation><ArticleIdList><ArticleId IdType="pubmed">8578310</ArticleId></ArticleIdList></Reference><Reference><Citation>Wahood W, Rizvi AA, Patel V, et al. Trends in utilization and outcomes of mechanical thrombectomy for cerebral venous thrombosis: a national inpatient sample study. Interv Neuroradiol 2023. OnlineFirst. DOI: 10.1177/15910199231182454</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/15910199231182454</ArticleId><ArticleId IdType="pubmed">37322874</ArticleId></ArticleIdList></Reference><Reference><Citation>Hughes C, Nichols T, Pike M, et al. Cerebral venous Sinus thrombosis as a presentation of COVID-19. Eur J Case Rep Intern Med 2020; 7: 001691.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7213833</ArticleId><ArticleId IdType="pubmed">32399457</ArticleId></ArticleIdList></Reference><Reference><Citation>Willyard C. Coronavirus blood-clot mystery intensifies. Nature 2020; 581: 50.</Citation><ArticleIdList><ArticleId IdType="pubmed">32393875</ArticleId></ArticleIdList></Reference></ReferenceList></PubmedData></PubmedArticle></PubmedArticleSet>

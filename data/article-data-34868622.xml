@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2024//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_240101.dtd">
+<PubmedArticleSet>
+<PubmedArticle><MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM"><PMID Version="1">34868622</PMID><DateRevised><Year>2024</Year><Month>10</Month><Day>06</Day></DateRevised><Article PubModel="Electronic-eCollection"><Journal><ISSN IssnType="Print">2055-2076</ISSN><JournalIssue CitedMedium="Print"><Volume>7</Volume><PubDate><Year>2021</Year><Season>Jan-Dec</Season></PubDate></JournalIssue><Title>Digital health</Title><ISOAbbreviation>Digit Health</ISOAbbreviation></Journal><ArticleTitle>Long Covid: Online patient narratives, public health communication and vaccine hesitancy.</ArticleTitle><Pagination><StartPage>20552076211059649</StartPage><MedlinePgn>20552076211059649</MedlinePgn></Pagination><ELocationID EIdType="pii" ValidYN="Y">20552076211059649</ELocationID><ELocationID EIdType="doi" ValidYN="Y">10.1177/20552076211059649</ELocationID><Abstract><AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">This study combines quantitative and qualitative analyses of social media data collected through three key stages of the pandemic, to highlight the following: 'First wave' (March to May, 2020): negative consequences arising from a disconnect between official health communications, and unofficial Long Covid sufferers' narratives online.'Second wave' (October 2020 to January 2021): closing the 'gap' between official health communications and unofficial patient narratives, leading to a better integration between patient voice, research and services.'Vaccination phase' (January 2021, early stages of the vaccination programme in the UK): continuing and new emerging concerns.</AbstractText><AbstractText Label="METHODS" NlmCategory="METHODS">We adopted a mixed methods approach involving quantitative and qualitative analyses of 1.38 million posts mentioning long-term symptoms of Covid-19, gathered across social media and news platforms between 1 January 2020 and 1 January 2021, on Twitter, Facebook, Blogs, and Forums. Our inductive thematic analysis was informed by our discourse analysis of words, and sentiment analysis of hashtags and emojis.</AbstractText><AbstractText Label="RESULTS" NlmCategory="RESULTS">Results indicate that the negative impacts arise mostly from conflicting definitions of Covid-19 and fears around the Covid-19 vaccine for Long Covid sufferers. Key areas of concern are: time/duration; symptoms/testing; emotional impact; lack of support and resources.</AbstractText><AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Whilst Covid-19 is a global issue, specific sociocultural, political and economic contexts mean patients experience Long Covid at a localised level, needing appropriate localised responses. This can only happen if we build a knowledge base that begins with the patient, ultimately informing treatment and rehabilitation strategies for Long Covid.</AbstractText><CopyrightInformation>&#xa9; The Author(s) 2021.</CopyrightInformation></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Miyake</LastName><ForeName>Esperanza</ForeName><Initials>E</Initials><Identifier Source="ORCID">0000-0001-5504-7648</Identifier><AffiliationInfo><Affiliation>Chancellor's Fellow, Department of Journalism, Media and Communication, University of Strathclyde, Glasgow, Scotland G4 0LT.</Affiliation><Identifier Source="RINGGOLD">3527</Identifier></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Martin</LastName><ForeName>Sam</ForeName><Initials>S</Initials><Identifier Source="ORCID">0000-0002-4466-8374</Identifier><AffiliationInfo><Affiliation>Digital Sociologist and Big Data Analytics Research Consultant: Ethox Centre, Nuffield Department of Population Health, Big Data Institute, University of Oxford, Li Ka Shing Centre for Health Information and Discovery, Oxford OX3 7LF, United Kingdom.</Affiliation><Identifier Source="RINGGOLD">6396</Identifier></AffiliationInfo></Author></AuthorList><Language>eng</Language><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType></PublicationTypeList><ArticleDate DateType="Electronic"><Year>2021</Year><Month>11</Month><Day>29</Day></ArticleDate></Article><MedlineJournalInfo><Country>United States</Country><MedlineTA>Digit Health</MedlineTA><NlmUniqueID>101690863</NlmUniqueID><ISSNLinking>2055-2076</ISSNLinking></MedlineJournalInfo><KeywordList Owner="NOTNLM"><Keyword MajorTopicYN="N">Covid-19</Keyword><Keyword MajorTopicYN="N">Long Covid</Keyword><Keyword MajorTopicYN="N">health communications &lt; general</Keyword><Keyword MajorTopicYN="N">internet &lt; general</Keyword><Keyword MajorTopicYN="N">online &lt; general</Keyword><Keyword MajorTopicYN="N">self monitoring &lt; personalised medicine</Keyword><Keyword MajorTopicYN="N">social media &lt; media</Keyword></KeywordList><CoiStatement>Declaration of Conflicting Interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="received"><Year>2021</Year><Month>6</Month><Day>15</Day></PubMedPubDate><PubMedPubDate PubStatus="accepted"><Year>2021</Year><Month>10</Month><Day>26</Day></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2021</Year><Month>12</Month><Day>6</Day><Hour>9</Hour><Minute>14</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2021</Year><Month>12</Month><Day>7</Day><Hour>6</Hour><Minute>0</Minute></PubMedPubDate><PubMedPubDate PubStatus="medline"><Year>2021</Year><Month>12</Month><Day>7</Day><Hour>6</Hour><Minute>1</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2021</Year><Month>11</Month><Day>29</Day></PubMedPubDate></History><PublicationStatus>epublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">34868622</ArticleId><ArticleId IdType="pmc">PMC8638072</ArticleId><ArticleId IdType="doi">10.1177/20552076211059649</ArticleId><ArticleId IdType="pii">10.1177_20552076211059649</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>Centers for Disease Control and
+Prevention . Post-Covid Conditions, https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Flong-term-effects.html
+(accessed 13 September, 2021) The CDC&#x2019;s information page states: &#x2018;These
+post-COVID conditions may also be known as long COVID, long-haul COVID, post-acute
+COVID-19, long-term effects of COVID, or chronic COVID&#x2019;.</Citation></Reference><Reference><Citation>World Health Organisation (WHO).
+WHO Director-General&#x2019;s opening remarks at the media briefing on COVID-19&#x2013;21
+August 2020, https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---21-august-2020
+(2020, accessed 21 September 2021)</Citation></Reference><Reference><Citation>Long-Term Effects of
+COVID-19 . Centre for Diseases Control and Prevention (CDC),
+https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects.html
+(2020, accessed 10 January 2021).</Citation></Reference><Reference><Citation>Kalter L. Fauci introduces New acronym for long COVID at white house
+briefing. Medscape. https://www.medscape.com/viewarticle/946419. (2021, accessed 12
+March 2021).</Citation></Reference><Reference><Citation>The term, &#x2018;Long Covid&#x2019; first appeared as
+part of online patient narratives, on Twitter by Elisa Perego. https://twitter.com/elisaperego78/status/1263172084055838721?s=20
+(20 May, 2020, accessed 12 December, 2020). See also reference
+[50]</Citation></Reference><Reference><Citation>https://www.instagram.com/p/B-e8kZfAhz8/ The condition of not recovering from Covid-19 in the official recovery time was
+highlighted and made widely public as far back as April 2020 by Fiona Lowenstein
+firstly, via her Instagram account. (2 April, 2020, accessed 13 September, 2021). See also reference [7]</Citation></Reference><Reference><Citation>Lowenstein L. We Need to Talk About What Coronavirus Recoveries Look
+Like. The New York Times, 13 April
+2020, https://www.nytimes.com/2020/04/13/opinion/coronavirus-recovery.html
+(2020, accessed 13 September, 2021).</Citation></Reference><Reference><Citation>&#x2018;Long haulers&#x2019; is a term describing
+people with long-term symptoms that persist after initially contracting Covid-19.
+See:
+Marshall M. The lasting misery of coronavirus
+long-haulers. Nature. https://www.nature.com/articles/d41586-020-02598-6
+(2020, accessed 15 January 2021).</Citation><ArticleIdList><ArticleId IdType="pubmed">32929257</ArticleId></ArticleIdList></Reference><Reference><Citation>LongCovidSOS. https://www.longcovidsos.org/
+(2020, accessed 31st December 2020).</Citation></Reference><Reference><Citation>Long Covid Support. https://www.longcovid.org/
+(2020, accessed 18 August 2020).</Citation></Reference><Reference><Citation>We Are Body Politic. https://www.wearebodypolitic.com/covid19
+(2020, accessed 18 August 2020). Although existing before the Covid-19 pandemic
+as a queer feminist wellness collective founded in 2018, Body Politic is one of the
+largest global Covid-19 Support Groups.</Citation></Reference><Reference><Citation>WHO. Coronavirus update 54: update on clinical long-term effects of
+COVID-19. Geneva, Switzerland: WHO,
+26 March 2021, https://www.who.int/docs/default-source/coronaviruse/risk-comms-updates/update54_clinical_long_term_effects.pdf?sfvrsn=3e63eee5_8
+(2021, accessed 12 September 2021)</Citation></Reference><Reference><Citation>NHS. Your covid recovery - supporting your recovery after
+COVID-19. NHS, NHS England. https://www.yourcovidrecovery.nhs.uk/
+(2021, accessed February 2021).</Citation></Reference><Reference><Citation>NHS. Patient access: what are the long-term health impacts of
+coronavirus?
+NHS, NHS England. https://patient.info/news-and-features/what-are-the-long-term-health-impacts-of-coronavirus
+(2020, accessed 12 December 2020).</Citation></Reference><Reference><Citation>Nature Blog Editorial. Long COVID: let patients help define long-lasting COVID symptoms. Nature Blog, London, UK, 07 October 2020. 10.1038/d41586-020-02796-2 (2020, accessed 31 October 2020)</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/d41586-020-02796-2</ArticleId><ArticleId IdType="pubmed">0</ArticleId></ArticleIdList></Reference><Reference><Citation>Cacciapaglia G, Cot C, Sannino F. Second wave COVID-19 pandemics in Europe: a temporal
+playbook. Scientific Reports 2020; 10: 15514. https://www.nature.com/articles/s41598-020-72611-5. (2020, accessed
+2 February 2021).</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7511360</ArticleId><ArticleId IdType="pubmed">32968181</ArticleId></ArticleIdList></Reference><Reference><Citation>Boyatzis RE. Transforming qualitative information. Cleveland: Sage, 1998.</Citation></Reference><Reference><Citation>Fereday J, Muir-Cochrane E. Demonstrating rigor using thematic analysis: a hybrid approach of inductive and deductive coding and theme development. Int J Qual Methods 2016; 5: 80&#x2013;92.</Citation></Reference><Reference><Citation>Guest G, MacQueen KM, Namey EE. Applied thematic analysis. Thousand Oaks:Sage, 2012.</Citation></Reference><Reference><Citation>F&#xfc;rsich E. In defense of textual analysis: restoring a challenged method for journalism and media studies. Journal Stud 2009; 10: 238&#x2013;252</Citation></Reference><Reference><Citation>Smith A, Malik S, Shneiderman B. Visual analysis of topical evolution in unstructured text: Design and evaluation of TopicFlow. In: Kazienko P and Chawla NV (eds) Applications of Social Media and Social Network Analysis. Cham: Springer, 2015, pp. 159&#x2013;175</Citation></Reference><Reference><Citation>Meltwater Social Media
+Monitoring. https://www.meltwater.com/en/products/social-media-monitoring
+(2020, accessed 12 February 2021).</Citation></Reference><Reference><Citation>Broniatowski DA, Jamison AM, Qi SHet al. et al. Weaponized health communication: twitter bots and Russian trolls amplify the vaccine debate. Am J Public Health 2018; 108: 1378&#x2013;1384.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6137759</ArticleId><ArticleId IdType="pubmed">30138075</ArticleId></ArticleIdList></Reference><Reference><Citation>Zeng D, Chen H, Lusch Ret al. et al. Social media analytics and intelligence. IEEE Intell. Syst 2010; 25: 13&#x2013;16.</Citation></Reference><Reference><Citation>Paranyushkin D. InfraNodus: Generating Insight Using Text Network Analysis. In: The World Wide Web Conference (WWW &#x2018;19), New York, USA, 2019, pp. 3584&#x2013;3589. https://doi.org/10.1145/3308558.3314123</Citation></Reference><Reference><Citation>Kang S, Shim K, Kim J. Social media posts on Samsung galaxy note 7 explosion: a comparative analysis of crisis framing and sentiments in three nations. Journal of International Crisis and Risk Communication Research 2019; 2: 4.</Citation></Reference><Reference><Citation>Bai Q, Dan Q, Mu Zet al. et al. A systematic review of emoji: current research and future perspectives. Front Psychol 2019; 10: 2221.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6803511</ArticleId><ArticleId IdType="pubmed">31681068</ArticleId></ArticleIdList></Reference><Reference><Citation>Zappavigna M. Searchable talk: the linguistic functions of hashtags. Social Semiotics 2015; 25: 274&#x2013;291.</Citation></Reference><Reference><Citation>TalkWalker. Emoji analysis - 5 ways to crack the consumer code.
+Luxembourg: TalkWalker. https://www.talkwalker.com/blog/emoji-analysis-crack-consumer-code
+(2018, accessed 12 February 2021).</Citation></Reference><Reference><Citation>Melleng A, Jurek-Loughrey A, Deepak P. Sentiment and emotion based representations for fake reviews detection. In: Proceedings of the International Conference on Recent Advances in Natural Language Processing, Varna, Bulgaria, 2019, pp. 750&#x2013;757.</Citation></Reference><Reference><Citation>Derks D, Fischer AH, Bos AER. The role of emotion in computer-mediated communication: a review. Comput Human Behav 2008; 24: 766&#x2013;785.</Citation></Reference><Reference><Citation>Park J, Barash V, Fink C, et al. Emoticon style: interpreting differences in emoticons across cultures. In: International Conference on Weblogs and Social Media, July 2013.</Citation></Reference><Reference><Citation>Bich-Carriere L. Say it with [a smiling face with smiling eyes]: judicial use and legal challenges with emoji interpretation in Canada. International Journal for the Semiotics of Law 2019; 32: 283&#x2013;319.</Citation></Reference><Reference><Citation>Herring SC, Dainas AR. Receiver interpretations of emoji functions: a gender perspective. In: 1st International Workshop on Emoji Understanding and Applications in Social Media, Stanford, 2018.</Citation></Reference><Reference><Citation>Chen Z, Lu X, Ai Wet al. et al. Through a gender lens: learning usage patterns of emojis from large-scale android users. In: 2018 World Wide Web Conference on World Wide Web, Lyon, France, 2018.</Citation></Reference><Reference><Citation>Prada M, Rodrigues DL, Garrido MVet al. et al. Motives, frequency and attitudes toward emoji and emoticon use. Telematics Inform 2018; 35: 1925&#x2013;1934.</Citation></Reference><Reference><Citation>Tossell CC, Kortum P, Shepard Cet al. et al. A longitudinal study of emoticon use in text messaging from smartphones. Comput Human Behav 2012; 28: 659&#x2013;663.</Citation></Reference><Reference><Citation>Vandergriff I. Emotive communication online: a contextual analysis of computer-mediated communication (CMC) cues. J Pragmat 2013; 51: 1&#x2013;12.</Citation></Reference><Reference><Citation>Lin TJ, Chen CH. A preliminary study of the form and status of passionate affection emoticons. International Journal of Design 2018; 12: 75&#x2013;90.</Citation></Reference><Reference><Citation>Xu P, Dredze M, Broniatowski DA. The twitter social mobility Index: measuring social distancing practices With geolocated tweets. J Med Internet Res 2020; 22: e21499.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7717895</ArticleId><ArticleId IdType="pubmed">33048823</ArticleId></ArticleIdList></Reference><Reference><Citation>Gore RJ, Diallo S, Padilla JMD. You are what you tweet: connecting the geographic variation in America&#x2019;s obesity rate to twitter content. PloS One 2015; 10 e0133505&#x2013;e0133505</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4557976</ArticleId><ArticleId IdType="pubmed">26332588</ArticleId></ArticleIdList></Reference><Reference><Citation>Padilla JJ, Kavak H, Lynch CJet al. et al. Temporal and spatiotemporal investigation of tourist attraction visit sentiment on twitter. PloS one 2018; 13: e0198857&#x2013;e0198857.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6002102</ArticleId><ArticleId IdType="pubmed">29902270</ArticleId></ArticleIdList></Reference><Reference><Citation>Smith A, Brenner J. Twitter use 2012. Pew Research Center, https://www.pewresearch.org/internet/2012/05/31/twitter-use-2012/
+(2012, accessed 20 September)</Citation></Reference><Reference><Citation>Greenhalgh T, Knight M, Buxton Met al. et al. Management of post-acute covid-19 in primary care. Br Med J 2020; 370: m3026.</Citation><ArticleIdList><ArticleId IdType="pubmed">32784198</ArticleId></ArticleIdList></Reference><Reference><Citation>Alwan NA. What exactly is mild covid-19?
+BMJ Opinion. https://blogs.bmj.com/bmj/2020/07/28/nisreen-a-alwan-what-exactly-is-mild-covid-19/.
+(2020, accessed 11 November 2020).</Citation></Reference><Reference><Citation>Mahase E. Covid-19: what do we know about &#x201c;long covid&#x201d;? Br Med J 2020; 370: m2815.</Citation><ArticleIdList><ArticleId IdType="pubmed">32665317</ArticleId></ArticleIdList></Reference><Reference><Citation>Fraser E. Long term respiratory complications of covid-19. Br Med J 2020; 370: m3001.</Citation><ArticleIdList><ArticleId IdType="pubmed">32747332</ArticleId></ArticleIdList></Reference><Reference><Citation>Akrami A, Assaf G, Davis Het al.
+et al.
+
+COVID-19 Patient Experience Survey
+, https://patientresearchcovid19.com/survey2/
+(2021, accessed 15 March 2021).</Citation></Reference><Reference><Citation>Callard F, Perego E. How and why patients made long covid. Soc Sci Med 2021; 268: 113426.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7539940</ArticleId><ArticleId IdType="pubmed">33199035</ArticleId></ArticleIdList></Reference><Reference><Citation>NIHR. Living with Covid19 &#x2013; second review.
+NIHR, https://evidence.nihr.ac.uk/wp-content/uploads/2021/03/NIHR_COVID_REPORT_FINAL-150321-1_1_.pdf
+(2021, accessed March 16 2021).</Citation></Reference><Reference><Citation>The term, &#x2018;Long Covid&#x2019; first appeared as
+part of online patient narratives, on Twitter by Elisa Perego. https://twitter.com/elisaperego78/status/1263172084055838721?s=20
+(20 May, 2020, accessed 12 December 2020).</Citation></Reference><Reference><Citation>ApresJ20 moved on from being a hashtag
+social media community, to building a website and collective working group to advance
+the cause of Long Covid. https://www.apresj20.fr/qui-sommes-nous
+(2020, accessed 25 October 2020)</Citation></Reference><Reference><Citation>Whilst we were not able to analyse private social media groups for reasons relating to research ethics, we have based our evidence on mentions of these groups on Twitter.</Citation></Reference><Reference><Citation>Study ZOE COVID. How long does COVID-19 last? Our data shows one in ten are sick
+for three weeks or more: https://covid.joinzoe.com/post/covid-long-term
+(2020, accessed 19 August 2020).</Citation></Reference><Reference><Citation>Harding L. &#x2018;It feels endless&#x2019;: four women struggling to recover from
+covid-19. The Guardian, London, 7
+June 2020. https://www.theguardian.com/world/2020/jun/07/it-feels-endless-four-women-struggling-to-recover-from-covid-19-coronavirus-symptoms?utm_term=Autofeed&amp;CMP=twt_gu&amp;utm_medium&amp;utm_source=Twitter#Echobox=1591540221
+(2020, accessed 25 July 2020)</Citation></Reference><Reference><Citation>How Can COVID Affect You? NHS.
+https://www.yourcovidrecovery.nhs.uk/what-is-covid-19/how-can-covid-affect-you/
+(2021, accessed March 3, 2021). Within these official communications, the term
+&#x2018;Long Covid&#x2019; itself is used unclearly, if at all. For example, at the time of writing,
+NHS public communication does not specifically use the term, &#x2018;Long Covid&#x2019;; instead, the
+condition is described as, &#x2018;what will happen to people as they recover&#x2019;, &#x2018;long term
+problems&#x2019;.</Citation></Reference><Reference><Citation>Fieger E, Fadel K. # MedTwitter: an open source medical community. MedEdPublish; 2021;10.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC10939582</ArticleId><ArticleId IdType="pubmed">38486514</ArticleId></ArticleIdList></Reference><Reference><Citation>Siegelman JN. Reflections of a COVID-19 long hauler. JAMA 2020; 324: 2031&#x2013;2032.</Citation><ArticleIdList><ArticleId IdType="pubmed">33175108</ArticleId></ArticleIdList></Reference><Reference><Citation>News BBC. Coronavirus: people with fever or &#x2018;continuous&#x2019; cough told to
+self-isolate. BBC News, London, UK,
+12 March 2020. https://www.bbc.co.uk/news/uk-51857856
+(2020, accessed 25 July 2020)</Citation></Reference><Reference><Citation>News BBC. Coronavirus: virus isolation period extended from seven to 10
+days. BBC News, London, UK, 30 July
+2020, https://www.bbc.co.uk/news/uk-53588709
+(2020, accessed 5 August 2020)</Citation></Reference><Reference><Citation>NHS. COVID-19 Guidelines: how long to self-isolate.
+NHS, https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-and-treatment/how-long-to-self-isolate/
+(2020, accessed 12 April 2021)</Citation></Reference><Reference><Citation>Lack of clarity regarding how long
+immunity lasts: &#x2018;&#x2018;You probably have some immunity to coronavirus but it&#x2019;s not clear how
+long it will last&#x2019;). See: NHS. What to do if you get coronavirus (COVID-19) symptoms
+again. NHS, https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-and-treatment/what-to-do-if-you-get-symptoms-again/
+(2021, accessed 3 January 2021).</Citation></Reference><Reference><Citation>Lupton D. The quantified self. Cambridge and Malden: Polity Press, 2016a.</Citation></Reference><Reference><Citation>Lupton D. The diverse domains of quantified selves: self-tracking modes and dataveillance. Econ Soc 2016b; 45: 101&#x2013;122.</Citation></Reference><Reference><Citation>Walker-Rettberg J. Seeing ourselves through technology: how we use selfies, blogs and wearable devices to See and shape ourselves. Basingstoke: Palgrave Pivot, 2014.</Citation></Reference><Reference><Citation>See the notable &#x201c;Message In A Bottle&#x201d;
+campaign. https://www.longcovidsos.org/
+(2020, accessed 22 September 2021).</Citation></Reference><Reference><Citation>Bogaert D. The coronavirus &#x2018;long-haulers&#x2019; show how little we still
+know. The Guardian, London, UK, 28
+June, 2020. https://www.theguardian.com/commentisfree/2020/jun/28/coronavirus-long-haulers-infectious-disease-testing
+(2020, accessed 25 July 2020)</Citation></Reference><Reference><Citation>Kennedy J. I&#x2019;m a covid-19 &#x2018;long-hauler&#x2019;. For us, there is no end in
+sight. The Guardian, London, UK, 26
+July, 2020. https://www.theguardian.com/commentisfree/2020/jul/26/im-a-covid-19-long-hauler-im-still-dealing-with-pain-fatigue-and-misery
+(2020, accessed 5 September 2020)</Citation></Reference><Reference><Citation>Davis H. Brain fog, phantom smells and tinnitus: my experience as a covid
+&#x2018;long hauler&#x2019;. The Guardian, London, UK,
+5 August, 2020, https://www.theguardian.com/commentisfree/2020/aug/05/brain-fog-phantom-smells-and-tinnitus-my-experience-as-a-covid-long-hauler
+(2020, accessed 5 September 2020)</Citation></Reference><Reference><Citation>Focus Today in. The covid long haul: why are some patients not getting
+better?
+The Guardian, London, UK, 10 August,
+2020. https://www.theguardian.com/news/audio/2020/aug/10/the-covid-long-haul-why-are-some-patients-not-getting-better
+(2020, accessed 5 September 2020)</Citation></Reference><Reference><Citation>Davis N. Lingering and painful: the long and unclear road to coronavirus
+recovery. The Guardian, London, UK, 1
+May 2020. https://www.theguardian.com/world/2020/may/01/lingering-and-painful-long-and-unclear-road-to-coronavirus-recovery-long-lasting-symptoms
+(2020, accessed 25 July 2020)</Citation></Reference><Reference><Citation>News BBC. Long covid: &#x2018;life might never be normal again&#x2019;.
+BBC News, London, UK, 15 August
+2020. https://www.bbc.co.uk/news/av/uk-england-beds-bucks-herts-53778434
+(2020, accessed 5 September 2020) BBC is based in London,
+UK</Citation></Reference><Reference><Citation>Clifton H, Deith J. Long covid&#x2019; patients need treatment programme, doctors
+say. BBC News, London, UK, 8
+September, 2020. https://www.bbc.co.uk/news/health-54031587
+(2020, accessed 10 September 2020)</Citation></Reference><Reference><Citation>Giddens A. Modernity and self-identity: self and society in the late modern age. Cambridge: Polity Press, 1991.</Citation></Reference><Reference><Citation>ZOE COVID Study. Are COVID-19 vaccines safe for people with weakened immune
+systems? And will they work?
+ZOE COVID Study, King's College, London, UK. https://covid.joinzoe.com/post/covid-vaccines-immunocompromised(2021,
+accessed 2 March 2021)</Citation></Reference><Reference><Citation>NHS. FAQs &#x2013; vaccine coverage and eligibility. Question: who cannot get
+the COVID-19 vaccine &gt; should I get vaccinated if I have already had COVID or I am
+suffering from &#x2018;long COVID&#x2019;?
+NHS, England, UK. https://selondonccg.nhs.uk/what-we-do/covid-19/covid-19-vaccine/faqs-vaccine-coverage-and-eligibility/
+(2020, accessed 12 December 2020)</Citation></Reference><Reference><Citation>Roberts M. Coronavirus symptoms: UK adds loss of smell and taste to
+list
+BBC News, London, UK, 18 May, 2020.
+https://www.bbc.co.uk/news/health-52704417 (2020, accessed 25 July
+2020)</Citation></Reference><Reference><Citation>Gallagher J. Covid symptoms: what are they and how do I protect
+myself?
+BBC News, London, UK, 28 January,
+2020. https://www.bbc.co.uk/news/health-51048366
+(2020, accessed 25 July 2020)</Citation></Reference><Reference><Citation>Garner P. For 7 weeks I have been through a roller coaster of ill health, extreme
+emotions, and utter exhaustion. BMJOpinion
+2020. https://blogs.bmj.com/bmj/2020/05/05/paul-garner-people-who-have-a-more-protracted-illness-need-help-to-understand-and-cope-with-the-constantly-shifting-bizarre-symptoms/
+(2020, accessed 25 July 2020)</Citation></Reference><Reference><Citation>Lambert N, Survivor Corps. 
+Covid-19 &#x2018;Long Hauler&#x2019; Symptoms Survey Report
+
+https://dig.abclocal.go.com/wls/documents/2020/072720-wls-covid-symptom-study-doc.pdf
+(2020, accessed 25 July 2020)</Citation></Reference><Reference><Citation>Foucault M. The birth of the clinic: an archaeology of medical perception. Translated by AM Sheridan. Abingdon, Oxon: Routledge/Taylor &amp; Francis e-Library, 1963. (rep 2003), p. 25</Citation></Reference><Reference><Citation>Stewart G. My experience of covid-19&#x2014;not just another experience.
+BMJOpinion; 
+2020, London, UK. https://blogs.bmj.com/bmj/2020/07/20/grant-stewart-my-experience-of-covid-19-not-just-another-experience/
+(2020, accessed 25 July 2020)</Citation></Reference><Reference><Citation>Reddit, a social news aggregation, web
+content rating, and discussion website. https://www.reddit.com/
+(accessed 18 February 2021)</Citation></Reference><Reference><Citation>Mumsnet, a London-based internet Forum
+created by Justine Roberts for discussion between parents of children and
+teenagers). http://www.mumsnet.com/
+(accessed 18 February 2021)</Citation></Reference><Reference><Citation>HealthUnlocked, a social networking
+service for health. https://healthunlocked.com/
+(accessed 18 February 2021)</Citation></Reference><Reference><Citation>YouBeMom, an anonymous Forum that lets
+people engage in open discussion with other parents. https://youbemom.com/
+(accessed 18 February 2021).</Citation></Reference><Reference><Citation>4chan, an anonymous imageboard website
+which hosts boards dedicated to a wide variety of general and topical issues.
+https://www.4chan.org/
+(accessed 18 February 2021)</Citation></Reference><Reference><Citation>Sherdog, an American website and Forum
+devoted to the sport of mixed martial arts. https://www.sherdog.com/
+(accessed 20 February 2021)</Citation></Reference><Reference><Citation>Betfair, an online gambling website and
+Forum platform which operates the world&#x2019;s largest online betting exchange.
+https://www.betfair.com
+(accessed 1 March 2021)</Citation></Reference><Reference><Citation>Torjesen I. Covid-19: middle aged women face greater risk of debilitating long term symptoms. Br Med J 2021; 372: n829&#x2013;n829.</Citation><ArticleIdList><ArticleId IdType="pubmed">33766927</ArticleId></ArticleIdList></Reference><Reference><Citation>Fieger E, Fadel K. #Medtwitter: an open source medical community. MedEdPublish; 2021; 10.</Citation><ArticleIdList><ArticleId IdType="pmc">PMC10939582</ArticleId><ArticleId IdType="pubmed">38486514</ArticleId></ArticleIdList></Reference><Reference><Citation>We Are Body Politic. https://www.wearebodypolitic.com/covid19
+(2020, accessed 18 August 2020)</Citation></Reference><Reference><Citation>See Body Politic&#x2019;s associated patient-led
+Long Covid research group: Patient Research Collaborative: https://patientresearchcovid19.com/
+(accessed 13 September, 2021).</Citation></Reference><Reference><Citation>Kempner J, Bailey J. Collective self-experimentation in patient-led research: how online health communities foster innovation. Soc Sci Med 2019; 238: 112366.</Citation><ArticleIdList><ArticleId IdType="pubmed">31345612</ArticleId></ArticleIdList></Reference><Reference><Citation>Lokugamage AU, Taylor S, Rayner C. Patients&#x2019; experiences of &#x2018;longcovid&#x2019; are missing from the NHS
+narrative. BMJOpinion; 
+2020. https://blogs.bmj.com/bmj/2020/07/10/patients-experiences-of-longcovid-are-missing-from-the-nhs-narrative/
+The BMJ are based in London, UK</Citation></Reference><Reference><Citation>Similar tensions between &#x2018;official&#x2019; and
+&#x2018;unofficial&#x2019; terminologies can be found between the most recent new clinical case
+definition, &#x2018;Post Covid-19&#x2019; (released by WHO) and &#x2018;Long Covid&#x2019;. https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1
+(accessed 25 October 2021)</Citation></Reference></ReferenceList></PubmedData></PubmedArticle></PubmedArticleSet>

@@ -1,0 +1,480 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2024//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_240101.dtd">
+<PubmedArticleSet>
+<PubmedArticle><MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM"><PMID Version="1">35571085</PMID><DateRevised><Year>2024</Year><Month>08</Month><Day>27</Day></DateRevised><Article PubModel="Electronic-eCollection"><Journal><ISSN IssnType="Print">1663-9812</ISSN><JournalIssue CitedMedium="Print"><Volume>13</Volume><PubDate><Year>2022</Year></PubDate></JournalIssue><Title>Frontiers in pharmacology</Title><ISOAbbreviation>Front Pharmacol</ISOAbbreviation></Journal><ArticleTitle>Oxidative Stress and Hyper-Inflammation as Major Drivers of Severe COVID-19 and Long COVID: Implications for the Benefit of High-Dose Intravenous Vitamin C.</ArticleTitle><Pagination><StartPage>899198</StartPage><MedlinePgn>899198</MedlinePgn></Pagination><ELocationID EIdType="pii" ValidYN="Y">899198</ELocationID><ELocationID EIdType="doi" ValidYN="Y">10.3389/fphar.2022.899198</ELocationID><Abstract><AbstractText>Oxidative stress is a pivotal point in the pathophysiology of COVID-19 and presumably also in Long-COVID. Inflammation and oxidative stress are mutually reinforcing each other, thus contributing to the systemic hyperinflammatory state and coagulopathy which are cardinal pathological mechanisms of severe stages. COVID-19 patients, like other critically ill patients e.g. with pneumonia, very often show severe deficiency of the antioxidant vitamin C. So far, it has not been investigated how long this deficiency lasts or whether patients with long COVID symptoms also suffer from deficiencies. A vitamin C deficit has serious pathological consequences because vitamin C is one of the most effective antioxidants, but also co-factor of many enzymatic processes that affect the immune and nervous system, blood circulation and energy metabolism. Because of its anti-oxidative, anti-inflammatory, endothelial-restoring, and immunomodulatory effects the supportive intravenous (iv) use of supraphysiological doses has been investigated so far in 12 controlled or observational studies with altogether 1578 inpatients with COVID-19. In these studies an improved oxygenation, a decrease in inflammatory markers and a faster recovery were observed. In addition, early treatment with iv high dose vitamin C seems to reduce the risks of severe courses of the disease such as pneumonia and also mortality. Persistent inflammation, thrombosis and a dysregulated immune response (auto-immune phenomena and/or persistent viral load) seem to be major contributors to Long-COVID. Oxidative stress and inflammation are involved in the development and progression of fatigue and neuro-psychiatric symptoms in various diseases by disrupting tissue (e.g. autoantibodies), blood flow (e.g. immune thrombosis) and neurotransmitter metabolism (e.g. excitotoxicity). In oncological diseases, other viral infections and autoimmune diseases, which are often associated with fatigue, cognitive disorders, pain and depression similar to Long-COVID, iv high dose vitamin C was shown to significantly relieve these symptoms. Supportive iv vitamin C in acute COVID-19 might therefore reduce the risk of severe courses and also the development of Long-COVID.</AbstractText><CopyrightInformation>Copyright &#xa9; 2022 Vollbracht and Kraft.</CopyrightInformation></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Vollbracht</LastName><ForeName>Claudia</ForeName><Initials>C</Initials><AffiliationInfo><Affiliation>Medical Science Department, Pascoe Pharmazeutische Pr&#xe4;parate GmbH, Giessen, Germany.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Kraft</LastName><ForeName>Karin</ForeName><Initials>K</Initials><AffiliationInfo><Affiliation>Chair of Naturopathy, University Medicine Rostock, Rostock, Germany.</Affiliation></AffiliationInfo></Author></AuthorList><Language>eng</Language><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType><PublicationType UI="D016454">Review</PublicationType></PublicationTypeList><ArticleDate DateType="Electronic"><Year>2022</Year><Month>04</Month><Day>29</Day></ArticleDate></Article><MedlineJournalInfo><Country>Switzerland</Country><MedlineTA>Front Pharmacol</MedlineTA><NlmUniqueID>101548923</NlmUniqueID><ISSNLinking>1663-9812</ISSNLinking></MedlineJournalInfo><KeywordList Owner="NOTNLM"><Keyword MajorTopicYN="N">COVID-19</Keyword><Keyword MajorTopicYN="N">Long Covid</Keyword><Keyword MajorTopicYN="N">ascorbic acid</Keyword><Keyword MajorTopicYN="N">autoimmunity</Keyword><Keyword MajorTopicYN="N">cognitive dysfunction</Keyword><Keyword MajorTopicYN="N">fatigue</Keyword><Keyword MajorTopicYN="N">hyperinflammation</Keyword><Keyword MajorTopicYN="N">oxidative stress</Keyword></KeywordList><CoiStatement>C.V. is employed part time at Pascoe Pharmazeutische Praeparate GmbH (Giessen, Germany). The remaining author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="received"><Year>2022</Year><Month>3</Month><Day>21</Day></PubMedPubDate><PubMedPubDate PubStatus="accepted"><Year>2022</Year><Month>4</Month><Day>14</Day></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2022</Year><Month>5</Month><Day>16</Day><Hour>3</Hour><Minute>54</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2022</Year><Month>5</Month><Day>17</Day><Hour>6</Hour><Minute>0</Minute></PubMedPubDate><PubMedPubDate PubStatus="medline"><Year>2022</Year><Month>5</Month><Day>17</Day><Hour>6</Hour><Minute>1</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2022</Year><Month>4</Month><Day>29</Day></PubMedPubDate></History><PublicationStatus>epublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">35571085</ArticleId><ArticleId IdType="pmc">PMC9100929</ArticleId><ArticleId IdType="doi">10.3389/fphar.2022.899198</ArticleId><ArticleId IdType="pii">899198</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>
+Ackermann M., Anders H. J., Bilyy R., Bowlin G. L., Daniel C., De Lorenzo R., et al.  (2021). Patients with COVID-19: in the Dark-NETs of Neutrophils. Cell Death Differ
+28, 3125&#x2013;3139. 10.1038/s41418-021-00805-z
+PubMed Abstract | 10.1038/s41418-021-00805-z | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41418-021-00805-z</ArticleId><ArticleId IdType="doi">10.1038/s41418-021-00805-z</ArticleId><ArticleId IdType="pmc">PMC8142290</ArticleId><ArticleId IdType="pubmed">34031543</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Al-Kuraishy H. M., Al-Hussaniy H. A., Al-Gareeb A., Al-Harcan N. A. H., Batiha G. E., Alexiou A., et al.  (2022). Neutrophil Extracellular Traps (NETs) and Covid-19: A New Frontiers for Therapeutic Modality. Int. Immunopharmacol
+104, 108516. 10.1016/j.intimp.2021.108516
+PubMed Abstract | 10.1016/j.intimp.2021.108516 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.intimp.2021.108516</ArticleId><ArticleId IdType="doi">10.1016/j.intimp.2021.108516</ArticleId><ArticleId IdType="pmc">PMC8733219</ArticleId><ArticleId IdType="pubmed">35032828</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Alzoubi K. H., Shatnawi A. F., Al-Qudah M. A., Alfaqih M. A. (2020). Vitamin C Attenuates Memory Loss Induced by post-traumatic Stress like Behavior in a Rat Model. Behav. Brain Res.
+379, 112350. 10.1016/j.bbr.2019.112350
+PubMed Abstract | 10.1016/j.bbr.2019.112350 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.bbr.2019.112350</ArticleId><ArticleId IdType="doi">10.1016/j.bbr.2019.112350</ArticleId><ArticleId IdType="pubmed">31711893</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ang A., Pullar J. M., Currie M. J., Vissers M. C. M. (2018). Vitamin C and Immune Cell Function in Inflammation and Cancer. Biochem. Soc. Trans.
+46, 1147&#x2013;1159. 10.1042/BST20180169
+PubMed Abstract | 10.1042/BST20180169 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1042/BST20180169</ArticleId><ArticleId IdType="doi">10.1042/BST20180169</ArticleId><ArticleId IdType="pmc">PMC6195639</ArticleId><ArticleId IdType="pubmed">30301842</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ao G., Li J., Yuan Y., Wang Y., Nasr B., Bao M., et al.  (2022). Intravenous Vitamin C Use and Risk of Severity and Mortality in COVID-19: A Systematic Review and Meta-Analysis. Nutr. Clin. Pract.
+37 (2), 274&#x2013;281. 10.1002/ncp.10832
+PubMed Abstract | 10.1002/ncp.10832 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1002/ncp.10832</ArticleId><ArticleId IdType="doi">10.1002/ncp.10832</ArticleId><ArticleId IdType="pmc">PMC9088481</ArticleId><ArticleId IdType="pubmed">35148440</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Arcanjo A., Logullo J., Menezes C. C. B., De Souza Carvalho Giangiarulo T. C., Dos Reis M. C., De Castro G. M. M., et al.  (2020). The Emerging Role of Neutrophil Extracellular Traps in Severe Acute Respiratory Syndrome Coronavirus 2 (COVID-19). Sci. Rep.
+10, 19630. 10.1038/s41598-020-76781-0
+PubMed Abstract | 10.1038/s41598-020-76781-0 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41598-020-76781-0</ArticleId><ArticleId IdType="doi">10.1038/s41598-020-76781-0</ArticleId><ArticleId IdType="pmc">PMC7665044</ArticleId><ArticleId IdType="pubmed">33184506</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Arvinte C., Singh M., Marik P. E. (2020). Serum Levels of Vitamin C and Vitamin D in a Cohort of Critically Ill COVID-19 Patients of a North American Community Hospital Intensive Care Unit in May 2020: A Pilot Study. Med. Drug Discov.
+8, 100064. 10.1016/j.medidd.2020.100064
+PubMed Abstract | 10.1016/j.medidd.2020.100064 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.medidd.2020.100064</ArticleId><ArticleId IdType="doi">10.1016/j.medidd.2020.100064</ArticleId><ArticleId IdType="pmc">PMC7499070</ArticleId><ArticleId IdType="pubmed">32964205</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Badawy M. A., Yasseen B. A., El-Messiery R. M., Abdel-Rahman E. A., Elkhodiry A. A., Kamel A. G., et al.  (2021). Neutrophil-mediated Oxidative Stress and Albumin Structural Damage Predict COVID-19-Associated Mortality. Elife
+10. 10.7554/eLife.69417
+10.7554/eLife.69417 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.7554/eLife.69417</ArticleId><ArticleId IdType="doi">10.7554/eLife.69417</ArticleId><ArticleId IdType="pmc">PMC8641949</ArticleId><ArticleId IdType="pubmed">34821549</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Beltran-Garcia J., Osca-Verdegal R., Pallardo F. V., Ferreres J., Rodriguez M., Mulet S., et al.  (2020). Oxidative Stress and Inflammation in COVID-19-Associated Sepsis: The Potential Role of Anti-oxidant Therapy in Avoiding Disease Progression. Antioxidants (Basel)
+9. 10.3390/antiox9100936
+PubMed Abstract | 10.3390/antiox9100936 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/antiox9100936</ArticleId><ArticleId IdType="doi">10.3390/antiox9100936</ArticleId><ArticleId IdType="pmc">PMC7599810</ArticleId><ArticleId IdType="pubmed">33003552</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Blanch-Ruiz M. A., Ortega-Luna R., G&#xf3;mez-Garc&#xed;a G., Mart&#xed;nez-Cuesta M. &#xc1;., &#xc1;lvarez &#xc1;. (2021). Role of Neutrophil Extracellular Traps in COVID-19 Progression: An Insight for Effective Treatment. Biomedicines
+10. 10.3390/biomedicines10010031
+10.3390/biomedicines10010031 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/biomedicines10010031</ArticleId><ArticleId IdType="doi">10.3390/biomedicines10010031</ArticleId><ArticleId IdType="pmc">PMC8772933</ArticleId><ArticleId IdType="pubmed">35052711</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Blaszczak W., Barczak W., Masternak J., Kopczy&#x144;ski P., Zhitkovich A., Rubi&#x15b; B. (2019). Vitamin C as a Modulator of the Response to Cancer Therapy. Molecules
+24. 10.3390/molecules24030453
+PubMed Abstract | 10.3390/molecules24030453 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/molecules24030453</ArticleId><ArticleId IdType="doi">10.3390/molecules24030453</ArticleId><ArticleId IdType="pmc">PMC6384696</ArticleId><ArticleId IdType="pubmed">30695991</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Bleijenberg G., van der Meer J. W. (2018). &#x201c;Chapter 442: Chronic Fatigue Syndrome,&#x201d; in Harrison's Principles of Internal Medicine, 20e (USA: McGraw-Hill Education; ). Google Scholar
+</Citation></Reference><Reference><Citation>
+Boldrini M., Canoll P. D., Klein R. S. (2021). How COVID-19 Affects the Brain. JAMA Psychiatry
+78 (6), 682&#x2013;683. 10.1001/jamapsychiatry.2021.0500
+PubMed Abstract | 10.1001/jamapsychiatry.2021.0500 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamapsychiatry.2021.0500</ArticleId><ArticleId IdType="doi">10.1001/jamapsychiatry.2021.0500</ArticleId><ArticleId IdType="pmc">PMC9894299</ArticleId><ArticleId IdType="pubmed">33769431</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Borella R., De Biasi S., Paolini A., Boraldi F., Lo Tartaro D., Mattioli M., Fidanza L., Neroni A., Caro-Maldonado A., Meschiari M., Franceschini E., Quaglino D., Guaraldi G., Bertoldi C., Sita M., Busani S., Girardis M., Mussini C., Cossarizza A., Gibellini L.
+2022. Metabolic reprograming shapes neutrophil functions in severe COVID-19. Eur J Immunol, 52, 484&#x2013;502. PubMed Abstract | 10.1002/eji.202149481 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1002/eji.202149481</ArticleId><ArticleId IdType="pubmed">34870329</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Borrelli E., Roux-Lombard P., Grau G. E., Girardin E., Ricou B., Dayer J., et al.  (1996). Plasma Concentrations of Cytokines, Their Soluble Receptors, and Antioxidant Vitamins Can Predict the Development of Multiple Organ Failure in Patients at Risk. Crit. Care Med.
+24, 392&#x2013;397. 10.1097/00003246-199603000-00006
+PubMed Abstract | 10.1097/00003246-199603000-00006 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/00003246-199603000-00006</ArticleId><ArticleId IdType="doi">10.1097/00003246-199603000-00006</ArticleId><ArticleId IdType="pubmed">8625625</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Buicu A. L., Cernea S., Benedek I., Buicu C. F., Benedek T. (2021). Systemic Inflammation and COVID-19 Mortality in Patients with Major Noncommunicable Diseases: Chronic Coronary Syndromes, Diabetes and Obesity. J. Clin. Med.
+10. 10.3390/jcm10081545
+10.3390/jcm10081545 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/jcm10081545</ArticleId><ArticleId IdType="doi">10.3390/jcm10081545</ArticleId><ArticleId IdType="pmc">PMC8067631</ArticleId><ArticleId IdType="pubmed">33916917</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Campbell E. J., Dachs G. U., Morrin H. R., Davey V. C., Robinson B. A., Vissers M. C. M. (2019). Activation of the Hypoxia Pathway in Breast Cancer Tissue and Patient Survival Are Inversely Associated with Tumor Ascorbate Levels. BMC Cancer
+19, 307. 10.1186/s12885-019-5503-x
+PubMed Abstract | 10.1186/s12885-019-5503-x | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s12885-019-5503-x</ArticleId><ArticleId IdType="doi">10.1186/s12885-019-5503-x</ArticleId><ArticleId IdType="pmc">PMC6448303</ArticleId><ArticleId IdType="pubmed">30943919</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Carr A. C., Cook J. (2018). Intravenous Vitamin C for Cancer Therapy - Identifying the Current Gaps in Our Knowledge. Front. Physiol.
+9, 1182. 10.3389/fphys.2018.01182
+PubMed Abstract | 10.3389/fphys.2018.01182 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fphys.2018.01182</ArticleId><ArticleId IdType="doi">10.3389/fphys.2018.01182</ArticleId><ArticleId IdType="pmc">PMC6115501</ArticleId><ArticleId IdType="pubmed">30190680</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Carr A. C., Maggini S. (2017). Vitamin C and Immune Function. Nutrients
+9. 10.3390/nu9111211
+PubMed Abstract | 10.3390/nu9111211 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/nu9111211</ArticleId><ArticleId IdType="doi">10.3390/nu9111211</ArticleId><ArticleId IdType="pmc">PMC5707683</ArticleId><ArticleId IdType="pubmed">29099763</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Carr Ac., Rosengrave Pc., Bayer S., Chambers S., Mehrtens J., Shaw G. M. (2017). Hypovitaminosis C and Vitamin C Deficiency in Critically Ill Patients Despite Recommended Enteral and Parenteral Intakes. Crit. Care
+21, 300. 10.1186/s13054-017-1891-y
+PubMed Abstract | 10.1186/s13054-017-1891-y | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s13054-017-1891-y</ArticleId><ArticleId IdType="doi">10.1186/s13054-017-1891-y</ArticleId><ArticleId IdType="pmc">PMC5725835</ArticleId><ArticleId IdType="pubmed">29228951</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Carr A. C., Spencer E., Dixon L., Chambers S. T. (2020). Patients with Community Acquired Pneumonia Exhibit Depleted Vitamin C Status and Elevated Oxidative Stress. Nutrients
+12. 10.3390/nu12051318
+PubMed Abstract | 10.3390/nu12051318 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/nu12051318</ArticleId><ArticleId IdType="doi">10.3390/nu12051318</ArticleId><ArticleId IdType="pmc">PMC7284353</ArticleId><ArticleId IdType="pubmed">32384616</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Carr A. C., Vissers M. C., Cook J. S. (2014). The Effect of Intravenous Vitamin C on Cancer- and Chemotherapy-Related Fatigue and Quality of Life. Front. Oncol.
+4, 283. 10.3389/fonc.2014.00283
+PubMed Abstract | 10.3389/fonc.2014.00283 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fonc.2014.00283</ArticleId><ArticleId IdType="doi">10.3389/fonc.2014.00283</ArticleId><ArticleId IdType="pmc">PMC4199254</ArticleId><ArticleId IdType="pubmed">25360419</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Cervia C., Zurbuchen Y., Taeschler P., Ballouz T., Menges D., Hasler S., et al.  (2022). Immunoglobulin Signature Predicts Risk of post-acute COVID-19 Syndrome. Nat. Commun.
+13, 446. 10.1038/s41467-021-27797-1
+PubMed Abstract | 10.1038/s41467-021-27797-1 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41467-021-27797-1</ArticleId><ArticleId IdType="doi">10.1038/s41467-021-27797-1</ArticleId><ArticleId IdType="pmc">PMC8789854</ArticleId><ArticleId IdType="pubmed">35078982</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Chen Y., Xu Z., Wang P., Li X. M., Shuai Z. W., Ye D. Q., et al.  (2022). New-onset Autoimmune Phenomena post-COVID-19 Vaccination. Immunology
+165, 386&#x2013;401. 10.1111/imm.13443
+PubMed Abstract | 10.1111/imm.13443 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1111/imm.13443</ArticleId><ArticleId IdType="doi">10.1111/imm.13443</ArticleId><ArticleId IdType="pubmed">34957554</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Chiscano-Cam&#xf3;n L., Ruiz-Rodriguez Jc., Ruiz-Sanmartin A., Roca O., Ferrer R. (2020). Vitamin C Levels in Patients with SARS-CoV-2-Associated Acute Respiratory Distress Syndrome. Crit. Care
+24, 522. 10.1186/s13054-020-03249-y
+PubMed Abstract | 10.1186/s13054-020-03249-y | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s13054-020-03249-y</ArticleId><ArticleId IdType="doi">10.1186/s13054-020-03249-y</ArticleId><ArticleId IdType="pmc">PMC7447967</ArticleId><ArticleId IdType="pubmed">32847620</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Cohen S. (2021). Psychosocial Vulnerabilities to Upper Respiratory Infectious Illness: Implications for Susceptibility to Coronavirus Disease 2019 (COVID-19). Perspect. Psychol. Sci.
+16, 161&#x2013;174. 10.1177/1745691620942516
+PubMed Abstract | 10.1177/1745691620942516 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/1745691620942516</ArticleId><ArticleId IdType="doi">10.1177/1745691620942516</ArticleId><ArticleId IdType="pmc">PMC7345443</ArticleId><ArticleId IdType="pubmed">32640177</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Crook H., Raza S., Nowell J., Young M., Edison P. (2021). Long Covid-Mechanisms, Risk Factors, and Management. BMJ
+374, n1648. 10.1136/bmj.n1648
+PubMed Abstract | 10.1136/bmj.n1648 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1136/bmj.n1648</ArticleId><ArticleId IdType="doi">10.1136/bmj.n1648</ArticleId><ArticleId IdType="pubmed">34312178</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Deved V., Poyah P., James M. T., Tonelli M., Manns B. J., Walsh M., et al.  (2009). Ascorbic Acid for Anemia Management in Hemodialysis Patients: a Systematic Review and Meta-Analysis. Am. J. Kidney Dis.
+54, 1089&#x2013;1097. 10.1053/j.ajkd.2009.06.040
+PubMed Abstract | 10.1053/j.ajkd.2009.06.040 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1053/j.ajkd.2009.06.040</ArticleId><ArticleId IdType="doi">10.1053/j.ajkd.2009.06.040</ArticleId><ArticleId IdType="pubmed">19783342</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Dingchao H., Zhiduan Q., Liye H., Xiaodong F. (1994). The Protective Effects of High-Dose Ascorbic Acid on Myocardium against Reperfusion Injury during and after Cardiopulmonary Bypass. Thorac. Cardiovasc. Surg.
+42, 276&#x2013;278. 10.1055/s-2007-1016504
+PubMed Abstract | 10.1055/s-2007-1016504 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1055/s-2007-1016504</ArticleId><ArticleId IdType="doi">10.1055/s-2007-1016504</ArticleId><ArticleId IdType="pubmed">7863489</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Dotan A., Muller S., Kanduc D., David P., Halpert G., Shoenfeld Y. (2021). The SARS-CoV-2 as an Instrumental Trigger of Autoimmunity. Autoimmun. Rev.
+20, 102792. 10.1016/j.autrev.2021.102792
+PubMed Abstract | 10.1016/j.autrev.2021.102792 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.autrev.2021.102792</ArticleId><ArticleId IdType="doi">10.1016/j.autrev.2021.102792</ArticleId><ArticleId IdType="pmc">PMC7892316</ArticleId><ArticleId IdType="pubmed">33610751</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Dowey R., Iqbal A., Heller S. R., Sabroe I., Prince L. R. (2021). A Bittersweet Response to Infection in Diabetes; Targeting Neutrophils to Modify Inflammation and Improve Host Immunity. Front. Immunol.
+12, 678771. 10.3389/fimmu.2021.678771
+PubMed Abstract | 10.3389/fimmu.2021.678771 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fimmu.2021.678771</ArticleId><ArticleId IdType="doi">10.3389/fimmu.2021.678771</ArticleId><ArticleId IdType="pmc">PMC8209466</ArticleId><ArticleId IdType="pubmed">34149714</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Du W. D., Yuan Z. R., Sun J., Tang J. X., Cheng A. Q., Shen D. M., et al.  (2003). Therapeutic Efficacy of High-Dose Vitamin C on Acute Pancreatitis and its Potential Mechanisms. World J. Gastroenterol.
+9, 2565&#x2013;2569. 10.3748/wjg.v9.i11.2565
+PubMed Abstract | 10.3748/wjg.v9.i11.2565 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3748/wjg.v9.i11.2565</ArticleId><ArticleId IdType="doi">10.3748/wjg.v9.i11.2565</ArticleId><ArticleId IdType="pmc">PMC4656542</ArticleId><ArticleId IdType="pubmed">14606098</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Duan X., Tang X., Nair M. S., Zhang T., Qiu Y., Zhang W., et al.  (2021). An Airway Organoid-Based Screen Identifies a Role for the HIF1&#x3b1;-Glycolysis axis in SARS-CoV-2 Infection. Cell Rep
+37, 109920. 10.1016/j.celrep.2021.109920
+PubMed Abstract | 10.1016/j.celrep.2021.109920 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.celrep.2021.109920</ArticleId><ArticleId IdType="doi">10.1016/j.celrep.2021.109920</ArticleId><ArticleId IdType="pmc">PMC8516798</ArticleId><ArticleId IdType="pubmed">34731648</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Einerson B., Chaiyakunapruk N., Kitiyakara C., Maphanta S., Thamlikitkul V. (2011). The Efficacy of Ascorbic Acid in Suboptimal Responsive Anemic Hemodialysis Patients Receiving Erythropoietin: a Meta-Analysis. J. Med. Assoc. Thai
+94 (Suppl. 1), S134&#x2013;S146. PubMed Abstract | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="pubmed">21721439</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Elahi S. (2022). Hematopoietic Responses to SARS-CoV-2 Infection. Cell Mol Life Sci
+79, 187. 10.1007/s00018-022-04220-6
+PubMed Abstract | 10.1007/s00018-022-04220-6 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s00018-022-04220-6</ArticleId><ArticleId IdType="doi">10.1007/s00018-022-04220-6</ArticleId><ArticleId IdType="pmc">PMC8918078</ArticleId><ArticleId IdType="pubmed">35284964</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Fowler A. A., Syed A. A., Knowlson S., Sculthorpe R., Farthing D., Dewilde C., et al.  (2014). Phase I Safety Trial of Intravenous Ascorbic Acid in Patients with Severe Sepsis. J. Transl Med.
+12, 32. 10.1186/1479-5876-12-32
+PubMed Abstract | 10.1186/1479-5876-12-32 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/1479-5876-12-32</ArticleId><ArticleId IdType="doi">10.1186/1479-5876-12-32</ArticleId><ArticleId IdType="pmc">PMC3937164</ArticleId><ArticleId IdType="pubmed">24484547</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Frei B., England L., Ames B. N. (1989). Ascorbate Is an Outstanding Antioxidant in Human Blood Plasma. Proc. Natl. Acad. Sci. U S A.
+86, 6377&#x2013;6381. 10.1073/pnas.86.16.6377
+PubMed Abstract | 10.1073/pnas.86.16.6377 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1073/pnas.86.16.6377</ArticleId><ArticleId IdType="doi">10.1073/pnas.86.16.6377</ArticleId><ArticleId IdType="pmc">PMC297842</ArticleId><ArticleId IdType="pubmed">2762330</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Frommelt M. A., Kory P., Long M. T. (2020). Letter on Update to the Vitamin C, Thiamine, and Steroids in Sepsis (VICTAS) Protocol. Trials
+21, 350. 10.1186/s13063-020-04289-z
+PubMed Abstract | 10.1186/s13063-020-04289-z | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s13063-020-04289-z</ArticleId><ArticleId IdType="doi">10.1186/s13063-020-04289-z</ArticleId><ArticleId IdType="pmc">PMC7175527</ArticleId><ArticleId IdType="pubmed">32317008</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Gao D., Xu M., Wang G., Lv J., Ma X., Guo Y., et al.  (2021). The Efficiency and Safety of High-Dose Vitamin C in Patients with COVID-19: a Retrospective Cohort Study. Aging (Albany NY)
+13. 10.18632/aging.202557
+10.18632/aging.202557 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.18632/aging.202557</ArticleId><ArticleId IdType="doi">10.18632/aging.202557</ArticleId><ArticleId IdType="pmc">PMC7993712</ArticleId><ArticleId IdType="pubmed">33638944</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Guo J., Lin W. W., Zucker J. E., Nandakumar R., Uhlemann A. C., Wang S., et al.  (2022). Inflammation and Mortality in COVID-19 Hospitalized Patients with and without Type 2 Diabetes. J. Clin. Endocrinol. Metab.
+107 (5), dgac003. 10.1210/clinem/dgac003
+10.1210/clinem/dgac003 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1210/clinem/dgac003</ArticleId><ArticleId IdType="doi">10.1210/clinem/dgac003</ArticleId><ArticleId IdType="pmc">PMC8755390</ArticleId><ArticleId IdType="pubmed">34999821</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Hemil&#xe4; H. (2017). Vitamin C and Infections. Nutrients
+9. 10.3390/nu9040339
+10.3390/nu9040339 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/nu9040339</ArticleId><ArticleId IdType="doi">10.3390/nu9040339</ArticleId><ArticleId IdType="pmc">PMC5409678</ArticleId><ArticleId IdType="pubmed">28353648</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Hemila H., Louhiala P. (2013). Vitamin C for Preventing and Treating Pneumonia. Cochrane Database Syst. Rev.
+8, CD005532. PubMed Abstract | 10.1002/14651858.CD005532.pub3 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1002/14651858.CD005532.pub3</ArticleId><ArticleId IdType="pubmed">17253561</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Hojyo S., Uchida M., Tanaka K., Hasebe R., Tanaka Y., Murakami M., et al.  (2020). How COVID-19 Induces Cytokine Storm with High Mortality. Inflamm. Regen.
+40, 37. 10.1186/s41232-020-00146-3
+PubMed Abstract | 10.1186/s41232-020-00146-3 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s41232-020-00146-3</ArticleId><ArticleId IdType="doi">10.1186/s41232-020-00146-3</ArticleId><ArticleId IdType="pmc">PMC7527296</ArticleId><ArticleId IdType="pubmed">33014208</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Holford P., Carr A. C., Zawari M., Vizcaychipi M. P. (20212021). Vitamin C Intervention for Critical COVID-19: A Pragmatic Review of the Current Level of Evidence. Life (Basel)
+1111, 11661166. 10.3390/life11111166
+10.3390/life11111166 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/life11111166</ArticleId><ArticleId IdType="doi">10.3390/life11111166</ArticleId><ArticleId IdType="pmc">PMC8624950</ArticleId><ArticleId IdType="pubmed">34833042</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Holford P., Carr A. C., Jovic T. H., Ali S. R., Whitaker I. S., Marik P. E., et al.  (2020). Vitamin C-An Adjunctive Therapy for Respiratory Infection, Sepsis and COVID-19. Nutrients
+12. 10.3390/nu12123760
+PubMed Abstract | 10.3390/nu12123760 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/nu12123760</ArticleId><ArticleId IdType="doi">10.3390/nu12123760</ArticleId><ArticleId IdType="pmc">PMC7762433</ArticleId><ArticleId IdType="pubmed">33297491</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Hume R., Weyers E. (1973). Changes in Leucocyte Ascorbic Acid during the Common Cold. Scott Med. J.
+18, 3&#x2013;7. 10.1177/003693307301800102
+PubMed Abstract | 10.1177/003693307301800102 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/003693307301800102</ArticleId><ArticleId IdType="doi">10.1177/003693307301800102</ArticleId><ArticleId IdType="pubmed">4717661</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Institute Of Medicine (Us) Panel On Dietary Antioxidants And Related Compounds (2000). Dietary Reference Intakes for Vitamin C, Vitamin E, Selenium, and Carotenoids. Washington (DC). Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="pubmed">25077263</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Jamalimoghadamsiahkali S., Zarezade B., Koolaji S., Seyedalinaghi S., Zendehdel A., Tabarestani M., et al.  (2021). Safety and Effectiveness of High-Dose Vitamin C in Patients with COVID-19: a Randomized Open-Label Clinical Trial. Eur. J. Med. Res.
+26, 20. 10.1186/s40001-021-00490-1
+PubMed Abstract | 10.1186/s40001-021-00490-1 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s40001-021-00490-1</ArticleId><ArticleId IdType="doi">10.1186/s40001-021-00490-1</ArticleId><ArticleId IdType="pmc">PMC7877333</ArticleId><ArticleId IdType="pubmed">33573699</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Jensen I. J., Mcgonagill P. W., Berton R. R., Wagner B. A., Silva E. E., Buettner G. R., et al.  (2021). Prolonged Reactive Oxygen Species Production Following Septic Insult. Immunohorizons
+5, 477&#x2013;488. 10.4049/immunohorizons.2100027
+PubMed Abstract | 10.4049/immunohorizons.2100027 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.4049/immunohorizons.2100027</ArticleId><ArticleId IdType="doi">10.4049/immunohorizons.2100027</ArticleId><ArticleId IdType="pmc">PMC8686528</ArticleId><ArticleId IdType="pubmed">34145054</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Jung S. Y., Lee M. T., Baek M. S., Kim W. Y. (2022). Vitamin C for &#x2265; 5 Days Is Associated with Decreased Hospital Mortality in Sepsis Subgroups: a Nationwide Cohort Study. Crit. Care
+26, 3. 10.1186/s13054-021-03872-3
+PubMed Abstract | 10.1186/s13054-021-03872-3 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s13054-021-03872-3</ArticleId><ArticleId IdType="doi">10.1186/s13054-021-03872-3</ArticleId><ArticleId IdType="pmc">PMC8728994</ArticleId><ArticleId IdType="pubmed">34983595</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Karami Fath M., Jahangiri A., Ganji M., Sefid F., Payandeh Z., Hashemi Z. S., et al.  (2021). SARS-CoV-2 Proteome Harbors Peptides Which Are Able to Trigger Autoimmunity Responses: Implications for Infection, Vaccination, and Population Coverage. Front. Immunol.
+12, 705772. 10.3389/fimmu.2021.705772
+PubMed Abstract | 10.3389/fimmu.2021.705772 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fimmu.2021.705772</ArticleId><ArticleId IdType="doi">10.3389/fimmu.2021.705772</ArticleId><ArticleId IdType="pmc">PMC8383889</ArticleId><ArticleId IdType="pubmed">34447375</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Kashiouris M. G., L'heureux M., Cable C. A., Fisher B. J., Leichtle S. W., Fowler A. A. (2020). The Emerging Role of Vitamin C as a Treatment for Sepsis. Nutrients
+12. 10.3390/nu12020292
+PubMed Abstract | 10.3390/nu12020292 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/nu12020292</ArticleId><ArticleId IdType="doi">10.3390/nu12020292</ArticleId><ArticleId IdType="pmc">PMC7070236</ArticleId><ArticleId IdType="pubmed">31978969</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Kim T. D., Lee S., Yoon S. (2020). Inflammation in Post-Traumatic Stress Disorder (PTSD): A Review of Potential Correlates of PTSD with a Neurological Perspective. Antioxidants (Basel)
+9. 10.3390/antiox9020107
+PubMed Abstract | 10.3390/antiox9020107 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/antiox9020107</ArticleId><ArticleId IdType="doi">10.3390/antiox9020107</ArticleId><ArticleId IdType="pmc">PMC7070581</ArticleId><ArticleId IdType="pubmed">31991875</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Kumari P., Dembra S., Dembra P., Bhawna F., Gul A., Ali B., et al.  (2020). The Role of Vitamin C as Adjuvant Therapy in COVID-19. Cureus
+12, e11779. 10.7759/cureus.11779
+PubMed Abstract | 10.7759/cureus.11779 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.7759/cureus.11779</ArticleId><ArticleId IdType="doi">10.7759/cureus.11779</ArticleId><ArticleId IdType="pmc">PMC7779177</ArticleId><ArticleId IdType="pubmed">33409026</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Lage S. L., Amaral E. L., Hilligan K. L., Laidlaw E., Rupert A., Namasivayan S., et al.  (2021). Persistent Oxidative Stress and Inflammasome Activation in CD14highCD16- Monocytes from COVID-19 Patients. Front. Immunol.
+12, 799558. 10.3389/fimmu.2021.799558
+PubMed Abstract | 10.3389/fimmu.2021.799558 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fimmu.2021.799558</ArticleId><ArticleId IdType="doi">10.3389/fimmu.2021.799558</ArticleId><ArticleId IdType="pmc">PMC8795739</ArticleId><ArticleId IdType="pubmed">35095880</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Lee Chong T., Ahearn E. L., Cimmino L. (2019). Reprogramming the Epigenome with Vitamin C. Front Cell Dev Biol
+7, 128. 10.3389/fcell.2019.00128
+PubMed Abstract | 10.3389/fcell.2019.00128 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fcell.2019.00128</ArticleId><ArticleId IdType="doi">10.3389/fcell.2019.00128</ArticleId><ArticleId IdType="pmc">PMC6646595</ArticleId><ArticleId IdType="pubmed">31380368</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Lee J. S., Kim H. G., Lee D. S., Son C. G. (2018). Oxidative Stress Is a Convincing Contributor to Idiopathic Chronic Fatigue. Sci. Rep.
+8, 12890. 10.1038/s41598-018-31270-3
+PubMed Abstract | 10.1038/s41598-018-31270-3 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41598-018-31270-3</ArticleId><ArticleId IdType="doi">10.1038/s41598-018-31270-3</ArticleId><ArticleId IdType="pmc">PMC6110864</ArticleId><ArticleId IdType="pubmed">30150620</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Lee Jy., Kim Cj., Chung M. Y. (2010). Effect of High-Dose Vitamin C on Oxygen Free Radical Production and Myocardial Enzyme after Tourniquet Ischaemia-Reperfusion Injury during Bilateral Total Knee Replacement. J. Int. Med. Res.
+38, 1519&#x2013;1529. 10.1177/147323001003800436
+PubMed Abstract | 10.1177/147323001003800436 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/147323001003800436</ArticleId><ArticleId IdType="doi">10.1177/147323001003800436</ArticleId><ArticleId IdType="pubmed">20926027</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Leppkes M., Knopf J., Naschberger E., Lindemann A., Singh J., Herrmann I., Sturzl M., Staats L., Mahajan, A., Schauer C., Kremer A. N., Volkl S., Amann K., Evert K., Falkeis C., Wehrfritz A., Rieker R. J., Hartmann A., Kremer A. E., Neurath M. F., Munoz L. E., Schett G., Herrmann 
+
+2020. Vascular occlusion by neutrophil extracellular traps in COVID-19. EBioMedicine, 58, 102925. PubMed Abstract | 10.1016/j.ebiom.2020.102925 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.ebiom.2020.102925</ArticleId><ArticleId IdType="pmc">PMC7397705</ArticleId><ArticleId IdType="pubmed">32745993</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Li M., Ching T. H., Hipple C., Lopez R., Sahibzada A., Rahman H. (2021). Use of Intravenous Vitamin C in Critically Ill Patients with COVID-19 Infection. J. Pharm. Pract.
+50, 8971900211015052. 10.1177/08971900211015052
+10.1177/08971900211015052 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/08971900211015052</ArticleId><ArticleId IdType="doi">10.1177/08971900211015052</ArticleId><ArticleId IdType="pubmed">34098784</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Lou M., Yuan D., Liao S., Tong L., Li J. (2021). Potential Mechanisms of Cerebrovascular Diseases in COVID-19 Patients. J. Neurovirol.
+27, 35&#x2013;51. 10.1007/s13365-021-00948-2
+PubMed Abstract | 10.1007/s13365-021-00948-2 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s13365-021-00948-2</ArticleId><ArticleId IdType="doi">10.1007/s13365-021-00948-2</ArticleId><ArticleId IdType="pmc">PMC7856859</ArticleId><ArticleId IdType="pubmed">33534131</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Lv S. J., Zhang G. H., Xia J. M., Yu H., Zhao F. (2020). Early Use of High-Dose Vitamin C Is Beneficial in Treatment of Sepsis. Ir J. Med. Sci.
+190 (3), 1183&#x2013;1188. 10.1007/s11845-020-02394-1
+PubMed Abstract | 10.1007/s11845-020-02394-1 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s11845-020-02394-1</ArticleId><ArticleId IdType="doi">10.1007/s11845-020-02394-1</ArticleId><ArticleId IdType="pubmed">33094466</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Lykkesfeldt J., Tveden-Nyborg P. (2019). The Pharmacokinetics of Vitamin C. Nutrients
+11. 10.3390/nu11102412
+PubMed Abstract | 10.3390/nu11102412 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/nu11102412</ArticleId><ArticleId IdType="doi">10.3390/nu11102412</ArticleId><ArticleId IdType="pmc">PMC6835439</ArticleId><ArticleId IdType="pubmed">31601028</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ma S., Sun S., Li J., Fan Y., Qu J., Sun L., et al.  (2020). Single-cell Transcriptomic Atlas of Primate Cardiopulmonary Aging. Cell Res
+31 (4), 415&#x2013;432. 10.1038/s41422-020-00412-6
+PubMed Abstract | 10.1038/s41422-020-00412-6 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41422-020-00412-6</ArticleId><ArticleId IdType="doi">10.1038/s41422-020-00412-6</ArticleId><ArticleId IdType="pmc">PMC7483052</ArticleId><ArticleId IdType="pubmed">32913304</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Magnusdottir I., Lovik A., Unnarsdottir A. B., Mccartney D., Ask H., Koiv K., et al.  (2022). Acute COVID-19 Severity and Mental Health Morbidity Trajectories in Patient Populations of Six Nations: an Observational Study. Lancet Public Health. 10.1016/s2468-2667(22)00042-1
+10.1016/s2468-2667(22)00042-1 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/s2468-2667(22)00042-1</ArticleId><ArticleId IdType="doi">10.1016/s2468-2667(22)00042-1</ArticleId><ArticleId IdType="pmc">PMC8920517</ArticleId><ArticleId IdType="pubmed">35298894</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Mondelli V., Pariante C. M. (2021). What Can Neuroimmunology Teach Us about the Symptoms of Long-COVID?
+Oxf Open Immunol.
+2, iqab004. 10.1093/oxfimm/iqab004
+PubMed Abstract | 10.1093/oxfimm/iqab004 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/oxfimm/iqab004</ArticleId><ArticleId IdType="doi">10.1093/oxfimm/iqab004</ArticleId><ArticleId IdType="pmc">PMC7928677</ArticleId><ArticleId IdType="pubmed">34192271</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Morris G., Stubbs B., K&#xf6;hler C. A., Walder K., Slyepchenko A., Berk M., et al.  (2018). The Putative Role of Oxidative Stress and Inflammation in the Pathophysiology of Sleep Dysfunction across Neuropsychiatric Disorders: Focus on Chronic Fatigue Syndrome, Bipolar Disorder and Multiple Sclerosis. Sleep Med. Rev.
+41, 255&#x2013;265. 10.1016/j.smrv.2018.03.007
+PubMed Abstract | 10.1016/j.smrv.2018.03.007 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.smrv.2018.03.007</ArticleId><ArticleId IdType="doi">10.1016/j.smrv.2018.03.007</ArticleId><ArticleId IdType="pubmed">29759891</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Morris-Blanco K. C., Chokkalla A. K., Kim T., Bhatula S., Bertogliat M. J., Gaillard A. B., et al.  (2022). High-Dose Vitamin C Prevents Secondary Brain Damage after Stroke via Epigenetic Reprogramming of Neuroprotective Genes. Transl Stroke Res. 10.1007/s12975-022-01007-6
+10.1007/s12975-022-01007-6 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s12975-022-01007-6</ArticleId><ArticleId IdType="doi">10.1007/s12975-022-01007-6</ArticleId><ArticleId IdType="pmc">PMC9485293</ArticleId><ArticleId IdType="pubmed">35306630</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Mousavi S., Bereswill S., Heimesaat M. M. (2019). Immunomodulatory and Antimicrobial Effects of Vitamin C. Eur. J. Microbiol. Immunol. (Bp)
+9, 73&#x2013;79. 10.1556/1886.2019.00016
+PubMed Abstract | 10.1556/1886.2019.00016 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1556/1886.2019.00016</ArticleId><ArticleId IdType="doi">10.1556/1886.2019.00016</ArticleId><ArticleId IdType="pmc">PMC6798581</ArticleId><ArticleId IdType="pubmed">31662885</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Nagel S. S., Radu C. A., Kremer T., Meess D., Horter J., Ziegler B., et al.  (2020). Safety, Pharmacodynamics, and Efficacy of High- versus Low-Dose Ascorbic Acid in Severely Burned Adults. J. Burn Care Res.
+41, 871&#x2013;877. 10.1093/jbcr/iraa041
+PubMed Abstract | 10.1093/jbcr/iraa041 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/jbcr/iraa041</ArticleId><ArticleId IdType="doi">10.1093/jbcr/iraa041</ArticleId><ArticleId IdType="pubmed">32141505</ArticleId></ArticleIdList></Reference><Reference><Citation>
+NIH (2021). Clinical Spectrum of SARS-CoV-2 Infection [Online]. Available at: https://www.covid19treatmentguidelines.nih.gov/overview/clinical-spectrum/(Accessed January 31, 2021 2021). Google Scholar
+</Citation></Reference><Reference><Citation>
+Ou J., Zhu X., Zhang H., Du Y., Chen P., Wang J., et al.  (2020). A Retrospective Study of Gemcitabine and Carboplatin with or without Intravenous Vitamin C on Patients with Advanced Triple-Negative Breast Cancer. Integr. Cancer Ther.
+19, 1534735419895591. 10.1177/1534735419895591
+PubMed Abstract | 10.1177/1534735419895591 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/1534735419895591</ArticleId><ArticleId IdType="doi">10.1177/1534735419895591</ArticleId><ArticleId IdType="pmc">PMC7031790</ArticleId><ArticleId IdType="pubmed">32070148</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Padayatty S. J., Sun A. Y., Chen Q., Espey M. G., Drisko J., Levine M. (2010). Vitamin C: Intravenous Use by Complementary and Alternative Medicine Practitioners and Adverse Effects. PLoS One
+5, e11414. 10.1371/journal.pone.0011414
+PubMed Abstract | 10.1371/journal.pone.0011414 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1371/journal.pone.0011414</ArticleId><ArticleId IdType="doi">10.1371/journal.pone.0011414</ArticleId><ArticleId IdType="pmc">PMC2898816</ArticleId><ArticleId IdType="pubmed">20628650</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Padayatty S. J., Sun H., Wang Y., Riordan H. D., Hewitt S. M., Katz A., et al.  (2004). Vitamin C Pharmacokinetics: Implications for Oral and Intravenous Use. Ann. Intern. Med.
+140, 533&#x2013;537. 10.7326/0003-4819-140-7-200404060-00010
+PubMed Abstract | 10.7326/0003-4819-140-7-200404060-00010 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.7326/0003-4819-140-7-200404060-00010</ArticleId><ArticleId IdType="doi">10.7326/0003-4819-140-7-200404060-00010</ArticleId><ArticleId IdType="pubmed">15068981</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Passos F. R. S., Heimfarth L., Monteiro B. S., Corr&#xea;a C. B., Moura T. R., Ara&#xfa;jo A. A. S., et al.  (2022). Oxidative Stress and Inflammatory Markers in Patients with COVID-19: Potential Role of RAGE, HMGB1, GFAP and COX-2 in Disease Severity. Int. Immunopharmacol
+104, 108502. 10.1016/j.intimp.2021.108502
+PubMed Abstract | 10.1016/j.intimp.2021.108502 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.intimp.2021.108502</ArticleId><ArticleId IdType="doi">10.1016/j.intimp.2021.108502</ArticleId><ArticleId IdType="pmc">PMC8730710</ArticleId><ArticleId IdType="pubmed">35063743</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Patel J. J., Ortiz-Reyes A., Dhaliwal R., Clarke J., Hill A., Stoppe C., et al.  (2021). IV Vitamin C in Critically Ill Patients: A Systematic Review and Meta-Analysis. Crit. Care Med.
+50 (3), e304&#x2013;e312. 10.1097/CCM.0000000000005320
+10.1097/CCM.0000000000005320 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/CCM.0000000000005320</ArticleId><ArticleId IdType="doi">10.1097/CCM.0000000000005320</ArticleId><ArticleId IdType="pubmed">34637420</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Peng T., Du S. Y., Son M., Diamond B. (2021). HIF-1&#x3b1; Is a Negative Regulator of Interferon Regulatory Factors: Implications for Interferon Production by Hypoxic Monocytes. Proc. Natl. Acad. Sci. U S A.
+118. 10.1073/pnas.2106017118
+10.1073/pnas.2106017118 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1073/pnas.2106017118</ArticleId><ArticleId IdType="doi">10.1073/pnas.2106017118</ArticleId><ArticleId IdType="pmc">PMC8256008</ArticleId><ArticleId IdType="pubmed">34108245</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Petrushevska M., Zendelovska D., Atanasovska E., Eftimov A., Spasovska K. (2021). Presentation of Cytokine Profile in Relation to Oxidative Stress Parameters in Patients with Severe COVID-19: a Case-Control Pilot Study. F1000Res
+10, 719. 10.12688/f1000research.55166.2
+PubMed Abstract | 10.12688/f1000research.55166.2 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.12688/f1000research.55166.2</ArticleId><ArticleId IdType="doi">10.12688/f1000research.55166.2</ArticleId><ArticleId IdType="pmc">PMC8603313</ArticleId><ArticleId IdType="pubmed">34868558</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Pignatelli P., Tanzilli G., Carnevale R., Di Santo S., Loffredo L., Celestini A., et al.  (2011). Ascorbic Acid Infusion Blunts CD40L Upregulation in Patients Undergoing Coronary Stent. Cardiovasc. Ther.
+29, 385&#x2013;394. 10.1111/j.1755-5922.2010.00168.x
+PubMed Abstract | 10.1111/j.1755-5922.2010.00168.x | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1111/j.1755-5922.2010.00168.x</ArticleId><ArticleId IdType="doi">10.1111/j.1755-5922.2010.00168.x</ArticleId><ArticleId IdType="pubmed">20629665</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Pincemail J., Cavalier E., Charlier C., Cheramy-Bien J. P., Brevers E., Courtois A., et al.  (2021). Oxidative Stress Status in COVID-19 Patients Hospitalized in Intensive Care Unit for Severe Pneumonia. A Pilot Study. Antioxidants (Basel)
+10. 10.3390/antiox10020257
+10.3390/antiox10020257 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/antiox10020257</ArticleId><ArticleId IdType="doi">10.3390/antiox10020257</ArticleId><ArticleId IdType="pmc">PMC7914603</ArticleId><ArticleId IdType="pubmed">33562403</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Prauchner C. A. (2017). Oxidative Stress in Sepsis: Pathophysiological Implications Justifying Antioxidant Co-therapy. Burns
+43, 471&#x2013;485. 10.1016/j.burns.2016.09.023
+PubMed Abstract | 10.1016/j.burns.2016.09.023 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.burns.2016.09.023</ArticleId><ArticleId IdType="doi">10.1016/j.burns.2016.09.023</ArticleId><ArticleId IdType="pubmed">28034666</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Preiser J. C. (2012). Oxidative Stress. JPEN J. Parenter. Enteral Nutr.
+36, 147&#x2013;154. 10.1177/0148607111434963
+PubMed Abstract | 10.1177/0148607111434963 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/0148607111434963</ArticleId><ArticleId IdType="doi">10.1177/0148607111434963</ArticleId><ArticleId IdType="pubmed">22301329</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Rajan S., Khunti K., Alwan N., Steves C., Greenhalgh T., Macdermott N., et al.  (2021). &#x201c;The Wake of the Pandemic: Preparing for Long COVID (2021),&#x201d; in POLICY BRIEF 39. [Online] (Accessed 12 17, 2021). Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="pubmed">33877759</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ran L., Zhao W., Wang H., Zhao Y., Bu H. (2020). Vitamin C as a Supplementary Therapy in Relieving Symptoms of the Common Cold: A Meta-Analysis of 10 Randomized Controlled Trials. Biomed. Res. Int.
+2020, 8573742. 10.1155/2020/8573742
+PubMed Abstract | 10.1155/2020/8573742 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1155/2020/8573742</ArticleId><ArticleId IdType="doi">10.1155/2020/8573742</ArticleId><ArticleId IdType="pmc">PMC7569434</ArticleId><ArticleId IdType="pubmed">33102597</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Rodr&#xed;guez D. M., Guerrero M. E., Maldonado B. M., Vollbracht C., Herrera S. A. (2017). Total Lymphocyte Count in Cancer Patients with Lymphopenia Treated with Intravenous Vitamin C: Results of an Observational Study. Translational Med. Commun.
+2, 3. 10.1186/s41231-017-0012-x
+10.1186/s41231-017-0012-x | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s41231-017-0012-x</ArticleId><ArticleId IdType="doi">10.1186/s41231-017-0012-x</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Satis H., Ozger H. S., Aysert Yildiz P., Hizel K., Gulbahar O., Erbas G., et al.  (2021). Prognostic Value of Interleukin-18 and its Association with Other Inflammatory Markers and Disease Severity in COVID-19. Cytokine
+137, 155302. PubMed Abstract | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7522034</ArticleId><ArticleId IdType="pubmed">33002740</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Schencking M., Vollbracht C., Weiss G., Lebert J., Biller A., Goyvaerts B., et al.  (2012). Intravenous Vitamin C in the Treatment of Shingles: Results of a Multicenter Prospective Cohort Study. Med. Sci. Monit.
+18, CR215&#x2013;24. 10.12659/msm.882621
+PubMed Abstract | 10.12659/msm.882621 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.12659/msm.882621</ArticleId><ArticleId IdType="doi">10.12659/msm.882621</ArticleId><ArticleId IdType="pmc">PMC3560828</ArticleId><ArticleId IdType="pubmed">22460093</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Scholz S. S., Borgstedt R., Ebeling N., Menzel L. C., Jansen G., Rehberg S. (2021). Mortality in Septic Patients Treated with Vitamin C: a Systematic Meta-Analysis. Crit. Care
+25, 17. 10.1186/s13054-020-03438-9
+PubMed Abstract | 10.1186/s13054-020-03438-9 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s13054-020-03438-9</ArticleId><ArticleId IdType="doi">10.1186/s13054-020-03438-9</ArticleId><ArticleId IdType="pmc">PMC7787590</ArticleId><ArticleId IdType="pubmed">33407793</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Sch&#xf6;nrich G., Raftery M. J., Samstag Y. (2020). Devilishly Radical NETwork in COVID-19: Oxidative Stress, Neutrophil Extracellular Traps (NETs), and T Cell Suppression. Adv. Biol. Regul.
+77, 100741. 10.1016/j.jbior.2020.100741
+PubMed Abstract | 10.1016/j.jbior.2020.100741 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.jbior.2020.100741</ArticleId><ArticleId IdType="doi">10.1016/j.jbior.2020.100741</ArticleId><ArticleId IdType="pmc">PMC7334659</ArticleId><ArticleId IdType="pubmed">32773102</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Spencer E., Rosengrave P., Williman J., Shaw G., Carr A. C. (2022). Circulating Protein Carbonyls Are Specifically Elevated in Critically Ill Patients with Pneumonia Relative to Other Sources of Sepsis. Free Radic. Biol. Med.
+179, 208&#x2013;212. 10.1016/j.freeradbiomed.2021.11.029
+PubMed Abstract | 10.1016/j.freeradbiomed.2021.11.029 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.freeradbiomed.2021.11.029</ArticleId><ArticleId IdType="doi">10.1016/j.freeradbiomed.2021.11.029</ArticleId><ArticleId IdType="pubmed">34818575</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Spoelstra-De Man A. M. E., Elbers P. W. G., Oudemans-Van Straaten H. M. (2018). Vitamin C: Should We Supplement?
+Curr. Opin. Crit. Care
+24, 248&#x2013;255. 10.1097/MCC.0000000000000510
+PubMed Abstract | 10.1097/MCC.0000000000000510 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/MCC.0000000000000510</ArticleId><ArticleId IdType="doi">10.1097/MCC.0000000000000510</ArticleId><ArticleId IdType="pmc">PMC6039380</ArticleId><ArticleId IdType="pubmed">29864039</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Spoelstra-De Man A. M. E., Oudemans-Van Straaten H. M., Berger M. M. (2019). Adjuvant Vitamin C for Sepsis: Mono or Triple?
+Crit. Care
+23, 425. 10.1186/s13054-019-2717-x
+PubMed Abstract | 10.1186/s13054-019-2717-x | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s13054-019-2717-x</ArticleId><ArticleId IdType="doi">10.1186/s13054-019-2717-x</ArticleId><ArticleId IdType="pmc">PMC6935178</ArticleId><ArticleId IdType="pubmed">31881912</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Stojkov D., Gigon L., Peng S., Lukowski R., Ruth P., Karaulov A., et al.  (2022). Physiological and Pathophysiological Roles of Metabolic Pathways for NET Formation and Other Neutrophil Functions. Front. Immunol.
+13, 826515. 10.3389/fimmu.2022.826515
+PubMed Abstract | 10.3389/fimmu.2022.826515 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fimmu.2022.826515</ArticleId><ArticleId IdType="doi">10.3389/fimmu.2022.826515</ArticleId><ArticleId IdType="pmc">PMC8889909</ArticleId><ArticleId IdType="pubmed">35251008</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Su Y., Yuan D., Chen D. G., Ng R. H., Wang K., Choi J., et al.  (2022). Multiple Early Factors Anticipate Post-Acute COVID-19 Sequelae. Cell Physiol Biochem
+185, 881&#x2013;895. 10.1016/j.cell.2022.01.014
+10.1016/j.cell.2022.01.014 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.cell.2022.01.014</ArticleId><ArticleId IdType="doi">10.1016/j.cell.2022.01.014</ArticleId><ArticleId IdType="pmc">PMC8786632</ArticleId><ArticleId IdType="pubmed">35216672</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Subramanian V. S., Sabui S., Subramenium G. A., Marchant J. S., Said H. M. (2018). Tumor Necrosis Factor Alpha Reduces Intestinal Vitamin C Uptake: a Role for NF-&#x39a;b-Mediated Signaling. Am. J. Physiol. Gastrointest. Liver Physiol.
+315, G241&#x2013;G248. 10.1152/ajpgi.00071.2018
+PubMed Abstract | 10.1152/ajpgi.00071.2018 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1152/ajpgi.00071.2018</ArticleId><ArticleId IdType="doi">10.1152/ajpgi.00071.2018</ArticleId><ArticleId IdType="pmc">PMC6139644</ArticleId><ArticleId IdType="pubmed">29631379</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Suh S. Y., Bae W. K., Ahn H. Y., Choi S. E., Jung G. C., Yeom C. H. (2012). Intravenous Vitamin C Administration Reduces Fatigue in Office Workers: A Double-Blind Randomized Controlled Trial. Nutr. J.
+11, 7. 10.1186/1475-2891-11-7
+PubMed Abstract | 10.1186/1475-2891-11-7 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/1475-2891-11-7</ArticleId><ArticleId IdType="doi">10.1186/1475-2891-11-7</ArticleId><ArticleId IdType="pmc">PMC3273429</ArticleId><ArticleId IdType="pubmed">22264303</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Suna K., Melahat U. S., Murat Y., Figen O. E., Ayperi O. (2021). Effect of High-Dose Intravenous Vitamin C on Prognosis in Patients with SARS-CoV-2 Pneumonia. Med. Clin. (Barc), 00252&#x2013;00259. 10.1016/j.medcli.2021.04.010
+10.1016/j.medcli.2021.04.010 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.medcli.2021.04.010</ArticleId><ArticleId IdType="doi">10.1016/j.medcli.2021.04.010</ArticleId><ArticleId IdType="pmc">PMC8112281</ArticleId><ArticleId IdType="pubmed">34103164</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Tanaka H., Matsuda T., Miyagantani Y., Yukioka T., Matsuda H., Shimazaki S. (2000). Reduction of Resuscitation Fluid Volumes in Severely Burned Patients Using Ascorbic Acid Administration: a Randomized, Prospective Study. Arch. Surg.
+135, 326&#x2013;331. 10.1001/archsurg.135.3.326
+PubMed Abstract | 10.1001/archsurg.135.3.326 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/archsurg.135.3.326</ArticleId><ArticleId IdType="doi">10.1001/archsurg.135.3.326</ArticleId><ArticleId IdType="pubmed">10722036</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Taneri P. E., G&#xf3;mez-Ochoa S. A., Llanaj E., Raguindin P. F., Rojas L. Z., Roa-D&#xed;az Z. M., et al.  (2020). Anemia and Iron Metabolism in COVID-19: a Systematic Review and Meta-Analysis. Eur. J. Epidemiol.
+35, 763&#x2013;773. 10.1007/s10654-020-00678-5
+PubMed Abstract | 10.1007/s10654-020-00678-5 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s10654-020-00678-5</ArticleId><ArticleId IdType="doi">10.1007/s10654-020-00678-5</ArticleId><ArticleId IdType="pmc">PMC7438401</ArticleId><ArticleId IdType="pubmed">32816244</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Teafatiller T., Agrawal S., De Robles G., Rahmatpanah F., Subramanian V. S., Agrawal A. (2021). Vitamin C Enhances Antiviral Functions of Lung Epithelial Cells. Biomolecules
+11. 10.3390/biom11081148
+10.3390/biom11081148 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/biom11081148</ArticleId><ArticleId IdType="doi">10.3390/biom11081148</ArticleId><ArticleId IdType="pmc">PMC8394979</ArticleId><ArticleId IdType="pubmed">34439814</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Tehrani S., Yadegarynia D., Abrishami A., Moradi H., Gharaei B., Rauofi M., et al.  (2021). An Investigation into the Effects of Intravenous Vitamin C on Pulmonary CT Findings and Clinical Outcomes of Patients with COVID 19 Pneumonia A Randomized Clinical Trial. Urol. J., 6863. 10.22037/uj.v18i.6863
+PubMed Abstract | 10.22037/uj.v18i.6863 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.22037/uj.v18i.6863</ArticleId><ArticleId IdType="doi">10.22037/uj.v18i.6863</ArticleId><ArticleId IdType="pubmed">34746999</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Th&#xe5;lin C., Hisada Y., Lundstr&#xf6;m S., Mackman N., Wall&#xe9;n H. (2019). Neutrophil Extracellular Traps: Villains and Targets in Arterial, Venous, and Cancer-Associated Thrombosis. Arterioscler Thromb. Vasc. Biol.
+39, 1724&#x2013;1738. 10.1161/ATVBAHA.119.312463
+PubMed Abstract | 10.1161/ATVBAHA.119.312463 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1161/ATVBAHA.119.312463</ArticleId><ArticleId IdType="doi">10.1161/ATVBAHA.119.312463</ArticleId><ArticleId IdType="pmc">PMC6703916</ArticleId><ArticleId IdType="pubmed">31315434</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Tian M., Liu W., Li X., Zhao P., Shereen M. A., Zhu C., et al.  (2021). HIF-1&#x3b1; Promotes SARS-CoV-2 Infection and Aggravates Inflammatory Responses to COVID-19. Signal. Transduct Target. Ther.
+6, 308. 10.1038/s41392-021-00726-w
+PubMed Abstract | 10.1038/s41392-021-00726-w | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41392-021-00726-w</ArticleId><ArticleId IdType="doi">10.1038/s41392-021-00726-w</ArticleId><ArticleId IdType="pmc">PMC8371950</ArticleId><ArticleId IdType="pubmed">34408131</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Tung M. L., Tan B., Cherian R., Chandra B. (2021). Anti-phospholipid Syndrome and COVID-19 Thrombosis: Connecting the Dots. Rheumatol. Adv. Pract.
+5, rkaa081. 10.1093/rap/rkaa081
+PubMed Abstract | 10.1093/rap/rkaa081 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/rap/rkaa081</ArticleId><ArticleId IdType="doi">10.1093/rap/rkaa081</ArticleId><ArticleId IdType="pmc">PMC7882149</ArticleId><ArticleId IdType="pubmed">33615129</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vadillo E., Taniguchi-Ponciano K., Lopez-Macias C., Carvente-Garcia R., Mayani H., Ferat-Osorio E., et al.  (2021). A Shift towards an Immature Myeloid Profile in Peripheral Blood of Critically Ill COVID-19 Patients. Arch. Med. Res.
+52, 311&#x2013;323. 10.1016/j.arcmed.2020.11.005
+PubMed Abstract | 10.1016/j.arcmed.2020.11.005 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.arcmed.2020.11.005</ArticleId><ArticleId IdType="doi">10.1016/j.arcmed.2020.11.005</ArticleId><ArticleId IdType="pmc">PMC7670924</ArticleId><ArticleId IdType="pubmed">33248817</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Van Eijk L. E., Tami A., Hillebrands J. L., Den Dunnen W. F. A., De Borst M. H., Van Der Voort P. H. J., et al.  (2021). Mild Coronavirus Disease 2019 (COVID-19) Is Marked by Systemic Oxidative Stress: A Pilot Study. Antioxidants (Basel)
+10. 10.3390/antiox10122022
+10.3390/antiox10122022 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/antiox10122022</ArticleId><ArticleId IdType="doi">10.3390/antiox10122022</ArticleId><ArticleId IdType="pmc">PMC8698810</ArticleId><ArticleId IdType="pubmed">34943125</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vollbracht C., Raithel M., Krick B., Kraft K., Hagel A. F. (2018). Intravenous Vitamin C in the Treatment of Allergies: an Interim Subgroup Analysis of a Long-Term Observational Study. J. Int. Med. Res.
+46, 3640&#x2013;3655. 10.1177/0300060518777044
+PubMed Abstract | 10.1177/0300060518777044 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/0300060518777044</ArticleId><ArticleId IdType="doi">10.1177/0300060518777044</ArticleId><ArticleId IdType="pmc">PMC6136002</ArticleId><ArticleId IdType="pubmed">29950123</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vollbracht C., Schneider B., Leendert V., Weiss G., Auerbach L., Beuth J. (2011). Intravenous Vitamin C Administration Improves Quality of Life in Breast Cancer Patients during Chemo-/radiotherapy and Aftercare: Results of a Retrospective, Multicentre, Epidemiological Cohort Study in Germany. In Vivo
+25, 983&#x2013;990. PubMed Abstract | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="pubmed">22021693</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vollbracht C., Kraft K. (2021a). Feasibility of Vitamin C in the Treatment of Post Viral Fatigue with Focus on Long COVID, Based on a Systematic Review of IV Vitamin C on Fatigue. Nutrients
+13. 10.3390/nu13041154
+10.3390/nu13041154 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/nu13041154</ArticleId><ArticleId IdType="doi">10.3390/nu13041154</ArticleId><ArticleId IdType="pmc">PMC8066596</ArticleId><ArticleId IdType="pubmed">33807280</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Vollbracht C., Kraft K. (2021b). Plausibility and Feasibility of Intravenous High-Dose Vitamin C in Long COVID Related Fatigue. J. Basic Clin. Pharm.
+12, 1&#x2013;4. Google Scholar
+</Citation></Reference><Reference><Citation>
+Wald E. L., Badke C. M., Hintz L. K., Spewak M., Sanchez-Pinto L. N. (2021). Vitamin Therapy in Sepsis. Pediatr. Res.
+91 (2), 328&#x2013;336. 10.1038/s41390-021-01673-6
+PubMed Abstract | 10.1038/s41390-021-01673-6 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1038/s41390-021-01673-6</ArticleId><ArticleId IdType="doi">10.1038/s41390-021-01673-6</ArticleId><ArticleId IdType="pmc">PMC8325544</ArticleId><ArticleId IdType="pubmed">34333556</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Wing P. A. C., Keeley T. P., Zhuang X., Lee J. Y., Prange-Barczynska M., Tsukuda S., et al.  (2021). Hypoxic and Pharmacological Activation of HIF Inhibits SARS-CoV-2 Infection of Lung Epithelial Cells. Cell Rep
+35, 109020. 10.1016/j.celrep.2021.109020
+PubMed Abstract | 10.1016/j.celrep.2021.109020 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.celrep.2021.109020</ArticleId><ArticleId IdType="doi">10.1016/j.celrep.2021.109020</ArticleId><ArticleId IdType="pmc">PMC8020087</ArticleId><ArticleId IdType="pubmed">33852916</ArticleId></ArticleIdList></Reference><Reference><Citation>
+World Health Organization (2021a). Expanding Our Understanding of post COVID-19 Condition: Report of a WHO Webinar, 9 February 2021. Available at: https://apps.who.int/iris/handle/10665/340951 (Accessed 12 17, 2021). Google Scholar
+</Citation></Reference><Reference><Citation>
+World Health Organization (2021b). High-level Meeting on post-COVID Conditions (long COVID): A Virtual Meeting Hosted by the WHO Regional Office for Europe, 19 March 2021. Available at: https://apps.who.int/iris/handle/10665/341050 (Accessed 12 17, 2021). Google Scholar
+</Citation></Reference><Reference><Citation>
+Xia G., Qin B., Ma C., Zhu Y., Zheng Q. (2021b). High-dose Vitamin C Ameliorates Cardiac Injury in COVID-19 Pandemic: a Retrospective Cohort Study. Aging (Albany NY)
+13, 20906&#x2013;20914. 10.18632/aging.203503
+PubMed Abstract | 10.18632/aging.203503 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.18632/aging.203503</ArticleId><ArticleId IdType="doi">10.18632/aging.203503</ArticleId><ArticleId IdType="pmc">PMC8457586</ArticleId><ArticleId IdType="pubmed">34499050</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Xia G., Fan D., He Y., Zhu Y., Zheng Q. (2021a). High-dose Intravenous Vitamin C Attenuates Hyperinflammation in Severe Coronavirus Disease 2019. Nutrition
+91-92, 111405. 10.1016/j.nut.2021.111405
+10.1016/j.nut.2021.111405 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.nut.2021.111405</ArticleId><ArticleId IdType="doi">10.1016/j.nut.2021.111405</ArticleId><ArticleId IdType="pmc">PMC8234258</ArticleId><ArticleId IdType="pubmed">34388587</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Yang X., Wang Y., Liu Y., Shang L., Cheng Z., Fang L., et al.  (2022). Traditional Chinese Medicine Together with High-Dose Vitamin C Improves the Therapeutic Effect of Western Medicine against COVID-19. Am. J. Transl Res.
+14, 501&#x2013;510. PubMed Abstract | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8829592</ArticleId><ArticleId IdType="pubmed">35173870</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Yeom C. H., Jung G. C., Song K. J. (2007). Changes of Terminal Cancer Patients' Health-Related Quality of Life after High Dose Vitamin C Administration. J. Korean Med. Sci.
+22, 7&#x2013;11. 10.3346/jkms.2007.22.1.7
+PubMed Abstract | 10.3346/jkms.2007.22.1.7 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3346/jkms.2007.22.1.7</ArticleId><ArticleId IdType="doi">10.3346/jkms.2007.22.1.7</ArticleId><ArticleId IdType="pmc">PMC2693571</ArticleId><ArticleId IdType="pubmed">17297243</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zhang J., Rao X., Li Y., Zhu Y., Liu F., Guo G., et al.  (2021). Pilot Trial of High-Dose Vitamin C in Critically Ill COVID-19 Patients. Ann. Intensive Care
+11, 5. 10.1186/s13613-020-00792-3
+PubMed Abstract | 10.1186/s13613-020-00792-3 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s13613-020-00792-3</ArticleId><ArticleId IdType="doi">10.1186/s13613-020-00792-3</ArticleId><ArticleId IdType="pmc">PMC7794643</ArticleId><ArticleId IdType="pubmed">33420963</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zhang L., Li M., Wang Z., Sun P., Wei S., Zhang C., et al.  (2021b). Cardiovascular Risk after SARS-CoV-2 Infection Is Mediated by IL18/IL18R1/HIF-1 Signaling Pathway Axis. Front. Immunol.
+12, 780804. 10.3389/fimmu.2021.780804
+PubMed Abstract | 10.3389/fimmu.2021.780804 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fimmu.2021.780804</ArticleId><ArticleId IdType="doi">10.3389/fimmu.2021.780804</ArticleId><ArticleId IdType="pmc">PMC8766743</ArticleId><ArticleId IdType="pubmed">35069552</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zhao B., Liu M., Liu P., Peng Y., Huang J., Li M., et al.  (2021b). High Dose Intravenous Vitamin C for Preventing the Disease Aggravation of Moderate COVID-19 Pneumonia. A Retrospective Propensity Matched Before-After Study. Front. Pharmacol.
+12, 638556. 10.3389/fphar.2021.638556
+PubMed Abstract | 10.3389/fphar.2021.638556 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fphar.2021.638556</ArticleId><ArticleId IdType="doi">10.3389/fphar.2021.638556</ArticleId><ArticleId IdType="pmc">PMC8100592</ArticleId><ArticleId IdType="pubmed">33967773</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zhao B., Li M. J., Ling Y., Peng Y. B., Huang J., Qu H. P., et al.  (2021a). Potential Benefit of High-Dose Intravenous Vitamin C for Coronavirus Disease 2019 Pneumonia. Chin. Med. J. (Engl)
+135 (1), 23&#x2013;25. 10.1097/CM9.0000000000001746
+10.1097/CM9.0000000000001746 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/CM9.0000000000001746</ArticleId><ArticleId IdType="doi">10.1097/CM9.0000000000001746</ArticleId><ArticleId IdType="pmc">PMC8850810</ArticleId><ArticleId IdType="pubmed">34873081</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zheng S., Chen Q., Jiang H., Guo C., Luo J., Li S., et al.  (2021). No Significant Benefit of Moderate-Dose Vitamin C on Severe COVID-19 Cases. Open Med. (Wars)
+16, 1403&#x2013;1414. 10.1515/med-2021-0361
+PubMed Abstract | 10.1515/med-2021-0361 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1515/med-2021-0361</ArticleId><ArticleId IdType="doi">10.1515/med-2021-0361</ArticleId><ArticleId IdType="pmc">PMC8459914</ArticleId><ArticleId IdType="pubmed">34616916</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zhu Y., Chen X., Liu X. (2022). NETosis and Neutrophil Extracellular Traps in COVID-19: Immunothrombosis and beyond. Front. Immunol.
+13, 838011. 10.3389/fimmu.2022.838011
+PubMed Abstract | 10.3389/fimmu.2022.838011 | Google Scholar
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3389/fimmu.2022.838011</ArticleId><ArticleId IdType="doi">10.3389/fimmu.2022.838011</ArticleId><ArticleId IdType="pmc">PMC8924116</ArticleId><ArticleId IdType="pubmed">35309344</ArticleId></ArticleIdList></Reference></ReferenceList></PubmedData></PubmedArticle></PubmedArticleSet>
