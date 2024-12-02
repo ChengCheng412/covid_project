@@ -1,12 +1,10 @@
-#Failed to use snakemaker for the download_data.sh file
+#Failed to use snakemaker for the download_data.sh file,so i just use "srun  scripts/download_data.sh" to run download_data.sh
 # rule download_articles:
 #     output:
 #     "data/data/pmids.xml"
-
-
 #     shell:
 #         """
-#         srun --wait scripts/download_data.sh
+#         srun  scripts/download_data.sh
 #         """
 rule process_articles:
     input:

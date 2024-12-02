@@ -10,6 +10,14 @@
 #SBATCH --error=logs/retry_download_data.err
 
 
+
+
+# The code used to download data that was not downloaded successfully.
+
+
+
+
+
 failed_pmids_file="logs/failed_pmids.txt"
 log_file="logs/download_data_10845920.log"
 

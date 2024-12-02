@@ -8,7 +8,7 @@ v purrr     1.0.2
 x dplyr::filter() masks stats::filter()
 x dplyr::lag()    masks stats::lag()
 i Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Rows: 6528 Columns: 3
+Rows: 6530 Columns: 3
 -- Column specification --------------------------------------------------------
 Delimiter: "\t"
 chr (1): Title
