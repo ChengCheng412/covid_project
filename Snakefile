@@ -1,6 +1,17 @@
-rule download_articles:
+# rule download_articles:
+#     output:
+#         "data/pmids.xml"
+        
+#     shell:
+#         """
+#         bash scripts/download_data.sh
+#         """
+rule process_articles:
+    input:
+        "data/pmids.xml"  # 指定整个 data/articles 目录作为输入
     output:
-        "data/pmids.xml",
-        directory("data/articles")
+        "data/processed_articles.tsv"  # 生成的输出文件
     shell:
-        "srun scripts/download_data.sh"
+        """
+        sbatch scripts/process_data.sh
+        """

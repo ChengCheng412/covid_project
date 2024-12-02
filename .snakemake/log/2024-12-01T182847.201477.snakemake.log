@@ -1,0 +1,22 @@
+host: bc4login1
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                  count
+-----------------  -------
+download_articles        1
+process_articles         1
+total                    2
+
+Select jobs to execute...
+Execute 1 jobs...
+
+[Sun Dec  1 18:28:47 2024]
+localrule download_articles:
+    output: data/pmids.xml, data/articles
+    jobid: 1
+    reason: Missing output files: data/articles
+    resources: tmpdir=/tmp
+

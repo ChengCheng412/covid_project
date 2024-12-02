@@ -1,0 +1,7 @@
+host: bc4login1
+Building DAG of jobs...
+MissingInputException in rule process_articles in file /user/home/nu24390/covid_project/Snakefile, line 9:
+Missing input files for rule process_articles:
+    output: data/processed_articles.tsv
+    affected files:
+        data/article-data-*.xml

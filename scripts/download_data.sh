@@ -1,13 +1,13 @@
 #!/bin/bash
 #SBATCH --account=SSCM033324
 #SBATCH --job-name=download_data_job
-#SBATCH --partition=teach_cpu
+#SBATCH --partition=cpu
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --time=03:00:00
 #SBATCH --mem=1G
-#SBATCH --output=logs/download_data_%j.log
-#SBATCH --error=logs/download_data_%j.err
+#SBATCH --output=logs/download_data.log
+#SBATCH --error=logs/download_data.err
 
 mkdir -p logs
 mkdir -p data
@@ -29,5 +29,5 @@ for pmid in $(grep -oP '(?<=<Id>)[^<]+' data/pmids.xml); do
         continue
     fi
 
-    sleep 1
+    sleep 0.1
 done

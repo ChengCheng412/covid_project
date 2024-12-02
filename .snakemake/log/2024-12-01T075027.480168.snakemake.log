@@ -1,0 +1,7 @@
+host: bc4login1
+Building DAG of jobs...
+MissingInputException in rule retry_failed_downloads in file /user/home/nu24390/covid_project/Snakefile, line 9:
+Missing input files for rule retry_failed_downloads:
+    output: data/articles
+    affected files:
+        download_data_10845920.log
