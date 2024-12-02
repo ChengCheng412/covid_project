@@ -1,4 +1,3 @@
-# COVID Mini Project
 <!-- Main Files Overview-->
 
 <!-- 1. download_data_job.sh
