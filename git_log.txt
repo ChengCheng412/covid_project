@@ -1,0 +1,47 @@
+commit 6e25766d70dcb6a3ba535a0feb57ea1a5c52af69
+Author: Chengjun Hu <nu24390@bc4login1.bc4.acrc.priv>
+Date:   Mon Dec 2 05:36:23 2024 +0000
+
+    change again README.md
+
+commit 9c598b6821e9f9bcfa738a0d3f30ceead347e234
+Author: Chengjun Hu <nu24390@bc4login1.bc4.acrc.priv>
+Date:   Mon Dec 2 05:33:59 2024 +0000
+
+    change README.md
+
+commit cfd2d96dcdb05a472f06c97fe17c5e99a0c18b6b
+Author: Chengjun Hu <nu24390@bc4login1.bc4.acrc.priv>
+Date:   Mon Dec 2 05:28:32 2024 +0000
+
+    add README.md
+
+commit b7f573a43ad24cdcab01b4d535dedf1569ebb028
+Author: Chengjun Hu <nu24390@bc4login1.bc4.acrc.priv>
+Date:   Mon Dec 2 05:22:48 2024 +0000
+
+    Last test
+
+commit b71c09e4eded2bb9da0fed320e7b73cde5b6c816
+Author: Chengjun Hu <nu24390@bc4login1.bc4.acrc.priv>
+Date:   Mon Dec 2 04:11:49 2024 +0000
+
+    change the Snakefile
+
+commit cca64add627f11fd6042e32b51548a6cf9dd0424
+Author: Chengjun Hu <nu24390@bc4login1.bc4.acrc.priv>
+Date:   Mon Dec 2 00:06:18 2024 +0000
+
+    Add sentiment analysis script and SLURM job script
+
+commit 95d94892732cf1a6a2b69f14e4a719aaacad8167
+Author: Chengjun Hu <nu24390@bc4login1.bc4.acrc.priv>
+Date:   Sun Dec 1 07:15:02 2024 +0000
+
+    download data
+
+commit c48b8eeeea50c54841f2ad2f614ae41e8df5d188
+Author: Chengjun Hu <nu24390@bc4login1.bc4.acrc.priv>
+Date:   Sun Dec 1 00:20:39 2024 +0000
+
+    Initial commit
