@@ -1,0 +1,31 @@
+host: bc4login1
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job                  count
+-----------------  -------
+download_articles        1
+total                    1
+
+Select jobs to execute...
+Execute 1 jobs...
+
+[Mon Dec  2 01:33:57 2024]
+localrule download_articles:
+    output: logs/download_data.log, logs/download_data.err
+    jobid: 0
+    reason: Missing output files: logs/download_data.log, logs/download_data.err
+    resources: tmpdir=/tmp
+
+Waiting at most 5 seconds for missing files.
+MissingOutputException in rule download_articles in file /user/home/nu24390/covid_project/Snakefile, line 1:
+Job 0 completed successfully, but some output files are missing. Missing files after 5 seconds. This might be due to filesystem latency. If that is the case, consider to increase the wait time with --latency-wait:
+logs/download_data.log (missing locally, parent dir contents: process_titles_10858300.err, process_xml.err, retry_download_data_10846426.log, process_titles_10858091.err, retry_download_data_10846426.err, plot_word_sentiments.err, process_titles_10858309.err, process_titles.err, process_titles_10858300.log, process_titles_10858078.log, plot_word_sentiments.log, process_titles_10858078.err, process_titles_10858091.log, process_xml.log, download_data_10845920.err, failed_pmids.txt, process_titles.log, process_titles_10857048.log, download_data_10845920.log, process_titles_10857048.err, process_titles_10858309.log)
+logs/download_data.err (missing locally, parent dir contents: process_titles_10858300.err, process_xml.err, retry_download_data_10846426.log, process_titles_10858091.err, retry_download_data_10846426.err, plot_word_sentiments.err, process_titles_10858309.err, process_titles.err, process_titles_10858300.log, process_titles_10858078.log, plot_word_sentiments.log, process_titles_10858078.err, process_titles_10858091.log, process_xml.log, download_data_10845920.err, failed_pmids.txt, process_titles.log, process_titles_10857048.log, download_data_10845920.log, process_titles_10857048.err, process_titles_10858309.log)
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-12-02T013357.303615.snakemake.log
+WorkflowError:
+At least one job did not complete successfully.

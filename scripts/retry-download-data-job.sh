@@ -6,8 +6,8 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --time=01:00:00
 #SBATCH --mem=1G
-#SBATCH --output=logs/retry_download_data_%j.log
-#SBATCH --error=logs/retry_download_data_%j.err
+#SBATCH --output=logs/retry_download_data.log
+#SBATCH --error=logs/retry_download_data.err
 
 
 failed_pmids_file="logs/failed_pmids.txt"

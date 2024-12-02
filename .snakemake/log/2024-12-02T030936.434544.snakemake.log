@@ -1,0 +1,26 @@
+host: bc4login1
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job               count
+--------------  -------
+process_titles        1
+total                 1
+
+Select jobs to execute...
+Execute 1 jobs...
+
+[Mon Dec  2 03:09:36 2024]
+localrule process_titles:
+    input: processed_data/processed_articles.tsv
+    output: processed_data/processed_titles_cleaned.tsv
+    jobid: 0
+    reason: Forced execution
+    resources: tmpdir=/tmp
+
+[Mon Dec  2 03:09:46 2024]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: .snakemake/log/2024-12-02T030936.434544.snakemake.log

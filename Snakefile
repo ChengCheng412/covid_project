@@ -1,17 +1,37 @@
+#Failed to use snakemaker for the download_data.sh file
 # rule download_articles:
 #     output:
-#         "data/pmids.xml"
-        
+#     "data/data/pmids.xml"
+
+
 #     shell:
 #         """
-#         bash scripts/download_data.sh
+#         srun --wait scripts/download_data.sh
 #         """
 rule process_articles:
     input:
-        "data/pmids.xml"  # 指定整个 data/articles 目录作为输入
+        "data/pmids.xml"  
     output:
-        "data/processed_articles.tsv"  # 生成的输出文件
+        "processed_data/processed_articles.tsv"  
     shell:
         """
-        sbatch scripts/process_data.sh
+        sbatch --wait scripts/process_data.sh
+        """
+rule process_titles:
+    input:
+        "processed_data/processed_articles.tsv"  
+    output:
+        "processed_data/processed_titles_cleaned.tsv"  
+    shell:
+        """
+        sbatch --wait scripts/process_titles.sh
+        """
+rule data_visualisation:
+    input:
+        "processed_data/processed_titles_cleaned.tsv"  
+    output:
+        "results/word_sentiment_trends_plot.png"  
+    shell:
+        """
+        sbatch --wait scripts/data_vi*on.sh
         """

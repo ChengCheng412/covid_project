@@ -1,0 +1,4 @@
+host: bc4login1
+Building DAG of jobs...
+MissingRuleException:
+No rule to produce download_a*s (if you use input functions make sure that they don't raise unexpected exceptions).
